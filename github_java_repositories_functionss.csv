@@ -1,0 +1,1001 @@
+Name,Owner,Stars,Forks,Last Updated,License,URL
+public-apis,public-apis,332598,35141,2024-10-31T19:50:02Z,MIT License,https://github.com/public-apis/public-apis
+system-design-primer,donnemartin,291852,48490,2024-12-02T01:10:39Z,Other,https://github.com/donnemartin/system-design-primer
+awesome-python,vinta,237070,25401,2024-08-11T17:10:18Z,Other,https://github.com/vinta/awesome-python
+Python,TheAlgorithms,198378,46396,2025-03-11T14:29:13Z,MIT License,https://github.com/TheAlgorithms/Python
+AutoGPT,Significant-Gravitas,173379,45333,2025-03-14T18:09:03Z,Other,https://github.com/Significant-Gravitas/AutoGPT
+stable-diffusion-webui,AUTOMATIC1111,149404,27896,2025-03-04T16:11:29Z,GNU Affero General Public License v3.0,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+transformers,huggingface,141216,28281,2025-03-14T17:49:34Z,Apache License 2.0,https://github.com/huggingface/transformers
+youtube-dl,ytdl-org,134658,10240,2025-03-11T02:00:24Z,The Unlicense,https://github.com/ytdl-org/youtube-dl
+yt-dlp,yt-dlp,104071,8160,2025-03-13T04:37:33Z,The Unlicense,https://github.com/yt-dlp/yt-dlp
+HelloGitHub,521xueweihan,99671,9837,2025-03-10T10:04:23Z,N/A,https://github.com/521xueweihan/HelloGitHub
+DeepSeek-V3,deepseek-ai,92135,14936,2025-02-24T03:50:20Z,MIT License,https://github.com/deepseek-ai/DeepSeek-V3
+thefuck,nvbn,90783,3642,2024-07-19T14:56:13Z,MIT License,https://github.com/nvbn/thefuck
+pytorch,pytorch,87894,23592,2025-03-14T18:09:07Z,Other,https://github.com/pytorch/pytorch
+django,django,82708,32368,2025-03-14T09:51:50Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/django/django
+fastapi,fastapi,82017,7083,2025-03-10T17:28:24Z,MIT License,https://github.com/fastapi/fastapi
+whisper,openai,78097,9357,2025-01-04T20:56:17Z,MIT License,https://github.com/openai/whisper
+models,tensorflow,77440,45662,2025-03-14T06:07:58Z,Other,https://github.com/tensorflow/models
+core,home-assistant,77098,32872,2025-03-14T16:24:39Z,Apache License 2.0,https://github.com/home-assistant/core
+manim,3b1b,76048,6608,2025-02-26T15:52:59Z,MIT License,https://github.com/3b1b/manim
+funNLP,fighting41love,71639,14739,2024-05-10T07:38:24Z,N/A,https://github.com/fighting41love/funNLP
+ComfyUI,comfyanonymous,70922,7671,2025-03-14T17:42:25Z,GNU General Public License v3.0,https://github.com/comfyanonymous/ComfyUI
+devops-exercises,bregman-arie,70220,15663,2025-01-25T17:57:43Z,Other,https://github.com/bregman-arie/devops-exercises
+flask,pallets,69062,16322,2025-01-05T17:10:05Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/pallets/flask
+screenshot-to-code,abi,69040,8494,2025-02-25T21:04:08Z,MIT License,https://github.com/abi/screenshot-to-code
+gpt_academic,binary-husky,67902,8323,2025-03-10T15:44:57Z,GNU General Public License v3.0,https://github.com/binary-husky/gpt_academic
+awesome-machine-learning,josephmisiti,67213,14808,2025-02-13T13:51:00Z,Other,https://github.com/josephmisiti/awesome-machine-learning
+d2l-zh,d2l-ai,67051,11395,2024-07-30T09:32:19Z,Apache License 2.0,https://github.com/d2l-ai/d2l-zh
+cpython,python,65760,31316,2025-03-14T17:11:32Z,Other,https://github.com/python/cpython
+ansible,ansible,64306,23996,2025-03-13T11:24:37Z,GNU General Public License v3.0,https://github.com/ansible/ansible
+PayloadsAllTheThings,swisskyrepo,63873,15121,2025-03-13T09:50:01Z,MIT License,https://github.com/swisskyrepo/PayloadsAllTheThings
+gpt4free,xtekky,63804,13565,2025-03-13T12:17:22Z,GNU General Public License v3.0,https://github.com/xtekky/gpt4free
+sherlock,sherlock-project,63001,7264,2025-02-17T06:07:27Z,MIT License,https://github.com/sherlock-project/sherlock
+keras,keras-team,62690,19542,2025-03-13T21:42:23Z,Apache License 2.0,https://github.com/keras-team/keras
+scikit-learn,scikit-learn,61410,25677,2025-03-13T12:56:53Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/scikit-learn/scikit-learn
+new-pac,Alvin9999,59392,9799,2025-03-14T18:02:25Z,N/A,https://github.com/Alvin9999/new-pac
+annotated_deep_learning_paper_implementations,labmlai,59190,6002,2024-08-24T09:18:59Z,MIT License,https://github.com/labmlai/annotated_deep_learning_paper_implementations
+open-interpreter,OpenInterpreter,58754,5007,2025-01-24T13:02:04Z,GNU Affero General Public License v3.0,https://github.com/OpenInterpreter/open-interpreter
+localstack,localstack,58029,4104,2025-03-14T17:58:04Z,Other,https://github.com/localstack/localstack
+llama,meta-llama,57857,9714,2025-01-26T21:42:26Z,Other,https://github.com/meta-llama/llama
+private-gpt,zylon-ai,55433,7427,2024-11-13T19:30:32Z,Apache License 2.0,https://github.com/zylon-ai/private-gpt
+you-get,soimort,55301,9736,2025-01-04T02:13:08Z,Other,https://github.com/soimort/you-get
+scrapy,scrapy,54534,10703,2025-03-13T19:45:30Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/scrapy/scrapy
+face_recognition,ageitgey,54344,13569,2024-08-21T06:22:36Z,MIT License,https://github.com/ageitgey/face_recognition
+Real-Time-Voice-Cloning,CorentinJ,53711,8906,2024-08-14T19:54:03Z,Other,https://github.com/CorentinJ/Real-Time-Voice-Cloning
+faceswap,deepfakes,53463,13352,2025-02-26T17:55:37Z,GNU General Public License v3.0,https://github.com/deepfakes/faceswap
+gpt-engineer,AntonOsika,53375,6984,2024-11-17T22:47:32Z,MIT License,https://github.com/AntonOsika/gpt-engineer
+yolov5,ultralytics,52897,16768,2025-03-14T12:28:50Z,GNU Affero General Public License v3.0,https://github.com/ultralytics/yolov5
+openpilot,commaai,52880,9535,2025-03-14T18:07:58Z,MIT License,https://github.com/commaai/openpilot
+requests,psf,52604,9404,2025-02-20T18:43:14Z,Apache License 2.0,https://github.com/psf/requests
+MetaGPT,geekan,52344,6192,2025-03-13T06:22:42Z,MIT License,https://github.com/geekan/MetaGPT
+hackingtool,Z4nzu,51876,5590,2025-03-03T15:17:19Z,MIT License,https://github.com/Z4nzu/hackingtool
+langflow,langflow-ai,51446,5659,2025-03-14T18:08:53Z,MIT License,https://github.com/langflow-ai/langflow
+rich,Textualize,51217,1799,2024-12-02T16:01:57Z,MIT License,https://github.com/Textualize/rich
+OpenHands,All-Hands-AI,50492,5544,2025-03-14T17:42:59Z,MIT License,https://github.com/All-Hands-AI/OpenHands
+grok-1,xai-org,50236,8365,2024-08-30T04:17:25Z,Apache License 2.0,https://github.com/xai-org/grok-1
+professional-programming,charlax,47414,3764,2025-03-08T20:02:34Z,MIT License,https://github.com/charlax/professional-programming
+PaddleOCR,PaddlePaddle,47337,8072,2025-03-14T01:45:05Z,Apache License 2.0,https://github.com/PaddlePaddle/PaddleOCR
+big-list-of-naughty-strings,minimaxir,47000,2152,2024-04-18T03:26:59Z,MIT License,https://github.com/minimaxir/big-list-of-naughty-strings
+30-Days-Of-Python,Asabeneh,45079,8620,2025-02-11T09:58:01Z,N/A,https://github.com/Asabeneh/30-Days-Of-Python
+pandas,pandas-dev,44834,18331,2025-03-14T15:03:10Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/pandas-dev/pandas
+Deep-Live-Cam,hacksider,44628,6584,2025-03-06T06:05:28Z,GNU Affero General Public License v3.0,https://github.com/hacksider/Deep-Live-Cam
+LLaMA-Factory,hiyouga,44147,5400,2025-03-13T15:31:10Z,Apache License 2.0,https://github.com/hiyouga/LLaMA-Factory
+browser-use,browser-use,43867,4448,2025-03-11T06:13:25Z,MIT License,https://github.com/browser-use/browser-use
+Fooocus,lllyasviel,43778,6626,2025-01-24T10:55:35Z,GNU General Public License v3.0,https://github.com/lllyasviel/Fooocus
+text-generation-webui,oobabooga,42877,5527,2025-03-14T18:00:59Z,GNU Affero General Public License v3.0,https://github.com/oobabooga/text-generation-webui
+GPT-SoVITS,RVC-Boss,42308,4718,2025-03-05T10:22:01Z,MIT License,https://github.com/RVC-Boss/GPT-SoVITS
+vllm,vllm-project,41455,6256,2025-03-14T17:30:16Z,Apache License 2.0,https://github.com/vllm-project/vllm
+autogen,microsoft,41443,6166,2025-03-14T17:15:23Z,Creative Commons Attribution 4.0 International,https://github.com/microsoft/autogen
+odoo,odoo,41267,26797,2025-03-14T17:38:02Z,Other,https://github.com/odoo/odoo
+python-patterns,faif,41065,6959,2024-09-05T20:53:59Z,N/A,https://github.com/faif/python-patterns
+ChatGLM-6B,THUDM,41020,5228,2024-06-27T04:05:25Z,Apache License 2.0,https://github.com/THUDM/ChatGLM-6B
+ColossalAI,hpcaitech,40596,4478,2025-03-14T10:15:31Z,Apache License 2.0,https://github.com/hpcaitech/ColossalAI
+stablediffusion,Stability-AI,40458,5183,2024-10-10T21:28:57Z,MIT License,https://github.com/Stability-AI/stablediffusion
+diagrams,mingrammer,40402,2600,2025-03-14T01:37:20Z,MIT License,https://github.com/mingrammer/diagrams
+ailearning,apachecn,40327,11518,2024-11-12T16:21:55Z,Other,https://github.com/apachecn/ailearning
+sentry,getsentry,40280,4280,2025-03-14T18:04:16Z,Other,https://github.com/getsentry/sentry
+markitdown,microsoft,40061,1871,2025-03-13T02:19:59Z,MIT License,https://github.com/microsoft/markitdown
+nanoGPT,karpathy,40047,6583,2024-12-09T23:53:04Z,MIT License,https://github.com/karpathy/nanoGPT
+llama_index,run-llama,39977,5696,2025-03-14T17:38:38Z,MIT License,https://github.com/run-llama/llama_index
+black,psf,39918,2557,2025-03-06T02:26:01Z,MIT License,https://github.com/psf/black
+airflow,apache,39159,14798,2025-03-14T17:44:28Z,Apache License 2.0,https://github.com/apache/airflow
+cheat.sh,chubin,39092,1808,2025-02-01T13:32:00Z,MIT License,https://github.com/chubin/cheat.sh
+bert,google-research,38836,9671,2024-07-23T23:39:41Z,Apache License 2.0,https://github.com/google-research/bert
+TTS,coqui-ai,38424,4817,2024-08-16T12:07:14Z,Mozilla Public License 2.0,https://github.com/coqui-ai/TTS
+mitmproxy,mitmproxy,38329,4133,2025-03-13T18:10:33Z,MIT License,https://github.com/mitmproxy/mitmproxy
+streamlit,streamlit,38143,3312,2025-03-14T17:58:59Z,Apache License 2.0,https://github.com/streamlit/streamlit
+FastChat,lm-sys,38108,4658,2025-03-01T06:43:01Z,Apache License 2.0,https://github.com/lm-sys/FastChat
+WeChatMsg,LC044,38026,3917,2025-03-11T09:59:23Z,GNU General Public License v3.0,https://github.com/LC044/WeChatMsg
+ultralytics,ultralytics,37921,7360,2025-03-14T15:33:29Z,GNU Affero General Public License v3.0,https://github.com/ultralytics/ultralytics
+quivr,QuivrHQ,37525,3635,2025-03-14T15:10:35Z,Other,https://github.com/QuivrHQ/quivr
+DeepSpeed,deepspeedai,37404,4298,2025-03-14T17:48:03Z,Apache License 2.0,https://github.com/deepspeedai/DeepSpeed
+Open-Assistant,LAION-AI,37247,3261,2024-08-17T01:55:35Z,Apache License 2.0,https://github.com/LAION-AI/Open-Assistant
+freqtrade,freqtrade,37236,7326,2025-03-13T19:44:20Z,GNU General Public License v3.0,https://github.com/freqtrade/freqtrade
+python-cheatsheet,gto76,36961,6584,2025-03-09T23:23:51Z,N/A,https://github.com/gto76/python-cheatsheet
+interview_internal_reference,0voice,36832,9463,2024-05-20T12:04:02Z,N/A,https://github.com/0voice/interview_internal_reference
+gradio,gradio-app,36810,2794,2025-03-13T22:20:25Z,Apache License 2.0,https://github.com/gradio-app/gradio
+OpenBB,OpenBB-finance,36777,3335,2025-03-14T17:55:21Z,Other,https://github.com/OpenBB-finance/OpenBB
+GFPGAN,TencentARC,36429,6041,2024-07-26T18:44:02Z,Other,https://github.com/TencentARC/GFPGAN
+wtfpython,satwikkansal,36074,2668,2025-03-06T07:35:23Z,Do What The F*ck You Want To Public License,https://github.com/satwikkansal/wtfpython
+ray,ray-project,35991,6101,2025-03-14T17:51:26Z,Apache License 2.0,https://github.com/ray-project/ray
+MockingBird,babysor,35949,5239,2024-11-15T05:00:29Z,Other,https://github.com/babysor/MockingBird
+DragGAN,XingangPan,35883,3449,2024-05-18T17:51:40Z,Other,https://github.com/XingangPan/DragGAN
+chatgpt-on-wechat,zhayujie,35683,9027,2025-02-05T04:27:07Z,MIT License,https://github.com/zhayujie/chatgpt-on-wechat
+gym,openai,35585,8657,2024-10-11T20:07:05Z,Other,https://github.com/openai/gym
+ChatTTS,2noise,35081,3792,2025-03-14T03:34:46Z,GNU Affero General Public License v3.0,https://github.com/2noise/ChatTTS
+ccxt,ccxt,35074,7766,2025-03-14T16:35:05Z,MIT License,https://github.com/ccxt/ccxt
+cli,httpie,35012,3695,2024-12-17T17:30:35Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/httpie/cli
+unsloth,unslothai,34672,2622,2025-03-14T17:07:21Z,Apache License 2.0,https://github.com/unslothai/unsloth
+HanLP,hankcs,34590,10431,2025-01-15T06:09:34Z,Apache License 2.0,https://github.com/hankcs/HanLP
+TaskMatrix,chenfei-wu,34518,3301,2024-01-06T02:41:20Z,Other,https://github.com/chenfei-wu/TaskMatrix
+OpenManus,mannaandpoem,33947,5388,2025-03-14T07:20:29Z,MIT License,https://github.com/mannaandpoem/OpenManus
+jieba,fxsjy,33835,6729,2024-08-21T09:23:45Z,MIT License,https://github.com/fxsjy/jieba
+shadowsocks,shadowsocks,33611,18523,2024-04-01T09:07:32Z,N/A,https://github.com/shadowsocks/shadowsocks
+sqlmap,sqlmapproject,33565,5811,2025-03-14T12:59:45Z,Other,https://github.com/sqlmapproject/sqlmap
+pytorch-image-models,huggingface,33484,4867,2025-02-23T05:07:06Z,Apache License 2.0,https://github.com/huggingface/pytorch-image-models
+crawl4ai,unclecode,33325,2852,2025-03-14T13:36:28Z,Apache License 2.0,https://github.com/unclecode/crawl4ai
+XX-Net,XX-net,33192,7668,2024-12-20T04:54:58Z,N/A,https://github.com/XX-net/XX-Net
+poetry,python-poetry,32802,2335,2025-03-10T20:16:51Z,MIT License,https://github.com/python-poetry/poetry
+Python,geekcomputers,32706,12446,2025-03-14T18:05:38Z,MIT License,https://github.com/geekcomputers/Python
+gpt-pilot,Pythagora-io,32486,3304,2025-03-04T06:26:32Z,Other,https://github.com/Pythagora-io/gpt-pilot
+certbot,certbot,32013,3426,2025-03-14T17:45:05Z,Other,https://github.com/certbot/certbot
+ControlNet,lllyasviel,31736,2836,2024-02-25T09:49:39Z,Apache License 2.0,https://github.com/lllyasviel/ControlNet
+jax,jax-ml,31639,2943,2025-03-14T17:32:50Z,Apache License 2.0,https://github.com/jax-ml/jax
+detectron2,facebookresearch,31447,7602,2025-01-14T01:45:38Z,Apache License 2.0,https://github.com/facebookresearch/detectron2
+OpenVoice,myshell-ai,31321,3156,2025-01-07T00:02:22Z,MIT License,https://github.com/myshell-ai/OpenVoice
+fairseq,facebookresearch,31146,6489,2025-01-09T16:43:36Z,MIT License,https://github.com/facebookresearch/fairseq
+spaCy,explosion,31126,4466,2025-02-03T17:32:33Z,MIT License,https://github.com/explosion/spaCy
+Umi-OCR,hiroi-sora,30742,3098,2025-03-14T13:25:32Z,MIT License,https://github.com/hiroi-sora/Umi-OCR
+manim,ManimCommunity,30609,2138,2025-03-13T11:06:29Z,MIT License,https://github.com/ManimCommunity/manim
+mmdetection,open-mmlab,30515,9586,2024-08-21T02:01:07Z,Apache License 2.0,https://github.com/open-mmlab/mmdetection
+linux-insides,0xAX,30421,3384,2024-11-23T18:42:33Z,Other,https://github.com/0xAX/linux-insides
+Real-ESRGAN,xinntao,30032,3751,2024-08-06T13:15:18Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/xinntao/Real-ESRGAN
+interactive-coding-challenges,donnemartin,30030,4510,2024-05-08T23:07:36Z,Other,https://github.com/donnemartin/interactive-coding-challenges
+stanford_alpaca,tatsu-lab,29870,4053,2024-07-17T09:43:05Z,Apache License 2.0,https://github.com/tatsu-lab/stanford_alpaca
+roop,s0md3v,29461,6662,2024-08-19T12:57:17Z,GNU General Public License v3.0,https://github.com/s0md3v/roop
+tqdm,tqdm,29451,1375,2025-02-05T17:46:50Z,Other,https://github.com/tqdm/tqdm
+aider,Aider-AI,29212,2650,2025-03-14T17:05:25Z,Apache License 2.0,https://github.com/Aider-AI/aider
+pytorch-lightning,Lightning-AI,29125,3454,2025-03-14T17:15:12Z,Apache License 2.0,https://github.com/Lightning-AI/pytorch-lightning
+CheatSheetSeries,OWASP,29072,4063,2025-03-11T20:37:56Z,Creative Commons Attribution Share Alike 4.0 International,https://github.com/OWASP/CheatSheetSeries
+numpy,numpy,29019,10571,2025-03-14T17:11:55Z,Other,https://github.com/numpy/numpy
+Hello-Python,mouredev,28943,1875,2025-02-28T12:39:35Z,Apache License 2.0,https://github.com/mouredev/Hello-Python
+django-rest-framework,encode,28908,6907,2025-03-08T09:53:16Z,Other,https://github.com/encode/django-rest-framework
+llama3,meta-llama,28507,3317,2025-01-26T21:39:06Z,Other,https://github.com/meta-llama/llama3
+crewAI,crewAIInc,28403,3857,2025-03-14T15:04:35Z,MIT License,https://github.com/crewAIInc/crewAI
+tinygrad,tinygrad,28354,3248,2025-03-14T15:18:33Z,MIT License,https://github.com/tinygrad/tinygrad
+GPT_API_free,chatanywhere,28202,2065,2025-02-14T15:37:37Z,MIT License,https://github.com/chatanywhere/GPT_API_free
+MinerU,opendatalab,28174,2178,2025-03-13T08:13:24Z,GNU Affero General Public License v3.0,https://github.com/opendatalab/MinerU
+vnpy,vnpy,28106,9254,2025-02-12T12:54:44Z,MIT License,https://github.com/vnpy/vnpy
+diffusers,huggingface,28022,5758,2025-03-14T12:03:16Z,Apache License 2.0,https://github.com/huggingface/diffusers
+data-science-ipython-notebooks,donnemartin,27983,7945,2024-03-20T13:52:34Z,Other,https://github.com/donnemartin/data-science-ipython-notebooks
+glances,nicolargo,27966,1554,2025-03-09T15:43:43Z,Other,https://github.com/nicolargo/glances
+DeepFaceLive,iperov,27830,341,2024-11-08T03:07:42Z,GNU General Public License v3.0,https://github.com/iperov/DeepFaceLive
+Retrieval-based-Voice-Conversion-WebUI,RVC-Project,27827,3944,2024-11-24T15:09:44Z,MIT License,https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+textual,Textualize,27770,856,2025-03-12T18:28:52Z,MIT License,https://github.com/Textualize/textual
+hosts,StevenBlack,27688,2284,2025-03-13T21:36:33Z,MIT License,https://github.com/StevenBlack/hosts
+Jobs_Applier_AI_Agent_AIHawk,feder-cr,27590,4130,2025-03-14T12:01:49Z,GNU Affero General Public License v3.0,https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk
+python-fire,google,27465,1447,2025-03-01T08:07:08Z,Other,https://github.com/google/python-fire
+mindsdb,mindsdb,27327,4920,2025-03-14T14:55:50Z,Other,https://github.com/mindsdb/mindsdb
+python-telegram-bot,python-telegram-bot,27130,5534,2025-03-09T15:02:24Z,GNU General Public License v3.0,https://github.com/python-telegram-bot/python-telegram-bot
+redash,getredash,27067,4439,2025-03-10T10:10:35Z,"BSD 2-Clause ""Simplified"" License",https://github.com/getredash/redash
+kitty,kovidgoyal,26681,1051,2025-03-14T01:19:54Z,GNU General Public License v3.0,https://github.com/kovidgoyal/kitty
+khoj,khoj-ai,26657,1456,2025-03-13T20:44:12Z,GNU Affero General Public License v3.0,https://github.com/khoj-ai/khoj
+cascadia-code,microsoft,26575,817,2025-03-06T03:26:32Z,Other,https://github.com/microsoft/cascadia-code
+exo,exo-explore,26538,1608,2025-03-12T06:24:57Z,GNU General Public License v3.0,https://github.com/exo-explore/exo
+spleeter,deezer,26519,2892,2025-01-24T14:14:40Z,MIT License,https://github.com/deezer/spleeter
+ChatDev,OpenBMB,26449,3358,2024-12-30T06:37:25Z,Apache License 2.0,https://github.com/OpenBMB/ChatDev
+jumpserver,jumpserver,26220,5417,2025-03-14T09:41:19Z,GNU General Public License v3.0,https://github.com/jumpserver/jumpserver
+supervision,roboflow,26193,1976,2025-03-10T17:27:49Z,MIT License,https://github.com/roboflow/supervision
+mem0,mem0ai,26135,2466,2025-03-14T16:37:47Z,Apache License 2.0,https://github.com/mem0ai/mem0
+EasyOCR,JaidedAI,25908,3275,2024-09-24T11:24:36Z,Apache License 2.0,https://github.com/JaidedAI/EasyOCR
+celery,celery,25805,4749,2025-03-14T08:35:38Z,Other,https://github.com/celery/celery
+locust,locustio,25771,3036,2025-03-10T08:11:05Z,MIT License,https://github.com/locustio/locust
+paperless-ngx,paperless-ngx,25718,1500,2025-03-14T18:05:43Z,GNU General Public License v3.0,https://github.com/paperless-ngx/paperless-ngx
+MiniGPT-4,Vision-CAIR,25605,2925,2024-09-02T09:07:21Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/Vision-CAIR/MiniGPT-4
+YouCompleteMe,ycm-core,25577,2797,2025-03-14T12:14:46Z,GNU General Public License v3.0,https://github.com/ycm-core/YouCompleteMe
+wttr.in,chubin,25543,1125,2025-03-04T18:27:01Z,Apache License 2.0,https://github.com/chubin/wttr.in
+generative-models,Stability-AI,25495,2830,2024-09-04T22:00:56Z,MIT License,https://github.com/Stability-AI/generative-models
+MoneyPrinterTurbo,harry0703,25279,3684,2025-02-10T03:08:23Z,MIT License,https://github.com/harry0703/MoneyPrinterTurbo
+d2l-en,d2l-ai,25245,4557,2024-08-18T08:02:36Z,Other,https://github.com/d2l-ai/d2l-en
+openai-python,openai,25240,3674,2025-03-14T15:21:49Z,Apache License 2.0,https://github.com/openai/openai-python
+pipenv,pypa,25003,1877,2025-03-10T08:22:52Z,MIT License,https://github.com/pypa/pipenv
+Mask_RCNN,matterport,24994,11724,2024-06-07T02:36:21Z,Other,https://github.com/matterport/Mask_RCNN
+posthog,PostHog,24949,1543,2025-03-14T18:08:07Z,Other,https://github.com/PostHog/posthog
+GitHub520,521xueweihan,24938,2436,2025-03-14T18:07:42Z,N/A,https://github.com/521xueweihan/GitHub520
+insightface,deepinsight,24554,5512,2025-03-10T08:57:02Z,N/A,https://github.com/deepinsight/insightface
+PythonRobotics,AtsushiSakai,24480,6697,2025-03-14T13:18:44Z,Other,https://github.com/AtsushiSakai/PythonRobotics
+algorithms,keon,24392,4654,2024-07-14T17:48:07Z,MIT License,https://github.com/keon/algorithms
+Open-Sora,hpcaitech,24382,2395,2025-03-14T10:41:20Z,Apache License 2.0,https://github.com/hpcaitech/Open-Sora
+Genesis,Genesis-Embodied-AI,24365,2115,2025-03-14T17:40:04Z,Apache License 2.0,https://github.com/Genesis-Embodied-AI/Genesis
+Hitomi-Downloader,KurtBestor,24269,2226,2025-02-01T09:43:19Z,N/A,https://github.com/KurtBestor/Hitomi-Downloader
+composio,ComposioHQ,24257,4361,2025-03-14T05:04:40Z,Other,https://github.com/ComposioHQ/composio
+deep-learning-for-image-processing,WZMIAOMIAO,24241,8123,2025-01-12T03:36:29Z,GNU General Public License v3.0,https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
+erpnext,frappe,24015,7947,2025-03-14T12:57:44Z,GNU General Public License v3.0,https://github.com/frappe/erpnext
+JARVIS,microsoft,24010,2000,2024-09-26T06:43:22Z,MIT License,https://github.com/microsoft/JARVIS
+docling,docling-project,23936,1395,2025-03-14T15:39:49Z,MIT License,https://github.com/docling-project/docling
+pathway,pathwaycom,23783,340,2025-03-14T06:11:51Z,Other,https://github.com/pathwaycom/pathway
+pytorch-CycleGAN-and-pix2pix,junyanz,23717,6400,2024-05-14T21:56:57Z,Other,https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+graphrag,microsoft,23439,2350,2025-03-13T18:21:42Z,MIT License,https://github.com/microsoft/graphrag
+ArchiveBox,ArchiveBox,23399,1241,2025-02-13T07:45:52Z,MIT License,https://github.com/ArchiveBox/ArchiveBox
+labelImg,HumanSignal,23397,6398,2024-06-07T20:24:32Z,MIT License,https://github.com/HumanSignal/labelImg
+storm,stanford-oval,23382,2025,2025-01-23T07:21:44Z,MIT License,https://github.com/stanford-oval/storm
+cookiecutter,cookiecutter,23198,2051,2025-03-10T20:21:48Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/cookiecutter/cookiecutter
+gpt-2,openai,23185,5622,2024-08-14T10:50:53Z,Other,https://github.com/openai/gpt-2
+algo,wangzheng0822,23021,7066,2024-08-21T07:31:34Z,Apache License 2.0,https://github.com/wangzheng0822/algo
+examples,pytorch,22833,9591,2025-02-09T16:56:58Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/pytorch/examples
+Awesome-Linux-Software,luong-komorebi,22826,2089,2025-03-11T02:59:23Z,N/A,https://github.com/luong-komorebi/Awesome-Linux-Software
+NLP-progress,sebastianruder,22815,3624,2024-07-28T00:44:25Z,MIT License,https://github.com/sebastianruder/NLP-progress
+pydantic,pydantic,22805,2046,2025-03-14T16:51:40Z,MIT License,https://github.com/pydantic/pydantic
+marker,VikParuchuri,22804,1391,2025-03-14T01:46:54Z,GNU General Public License v3.0,https://github.com/VikParuchuri/marker
+open-r1,huggingface,22790,2050,2025-03-14T08:38:43Z,Apache License 2.0,https://github.com/huggingface/open-r1
+changedetection.io,dgtlmoon,22597,1229,2025-03-14T17:15:13Z,Apache License 2.0,https://github.com/dgtlmoon/changedetection.io
+mkdocs-material,squidfunk,22466,3680,2025-03-14T09:01:55Z,MIT License,https://github.com/squidfunk/mkdocs-material
+dspy,stanfordnlp,22440,1716,2025-03-13T21:30:43Z,MIT License,https://github.com/stanfordnlp/dspy
+zulip,zulip,22429,8328,2025-03-14T18:07:33Z,Apache License 2.0,https://github.com/zulip/zulip
+dash,plotly,22123,2121,2025-03-14T17:23:12Z,MIT License,https://github.com/plotly/dash
+proxy_pool,jhao104,22089,5251,2025-02-13T05:35:58Z,MIT License,https://github.com/jhao104/proxy_pool
+vit-pytorch,lucidrains,22052,3201,2025-03-05T18:50:39Z,MIT License,https://github.com/lucidrains/vit-pytorch
+reflex,reflex-dev,22041,1283,2025-03-14T17:38:36Z,Apache License 2.0,https://github.com/reflex-dev/reflex
+pytorch_geometric,pyg-team,22019,3782,2025-03-14T08:42:14Z,MIT License,https://github.com/pyg-team/pytorch_geometric
+facefusion,facefusion,21958,3316,2025-03-13T20:13:54Z,Other,https://github.com/facefusion/facefusion
+tornado,tornadoweb,21852,5526,2025-03-04T16:31:54Z,Apache License 2.0,https://github.com/tornadoweb/tornado
+ungoogled-chromium,ungoogled-software,21817,897,2025-03-13T13:17:17Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/ungoogled-software/ungoogled-chromium
+LLaVA,haotian-liu,21805,2395,2024-08-12T09:52:38Z,Apache License 2.0,https://github.com/haotian-liu/LLaVA
+kotaemon,Cinnamon,21663,1700,2025-02-14T14:40:49Z,Apache License 2.0,https://github.com/Cinnamon/kotaemon
+minGPT,karpathy,21558,2796,2024-08-15T04:09:40Z,MIT License,https://github.com/karpathy/minGPT
+serve,jina-ai,21425,2219,2025-03-12T15:29:22Z,Apache License 2.0,https://github.com/jina-ai/serve
+OSX-KVM,kholia,21320,1913,2024-10-10T06:13:13Z,N/A,https://github.com/kholia/OSX-KVM
+chinese-independent-blogs,timqian,21315,2533,2025-03-12T08:57:52Z,MIT License,https://github.com/timqian/chinese-independent-blogs
+saleor,saleor,21266,5606,2025-03-14T14:08:08Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/saleor/saleor
+babyagi,yoheinakajima,21185,2778,2024-11-06T19:51:38Z,N/A,https://github.com/yoheinakajima/babyagi
+chatgpt-retrieval-plugin,openai,21143,3693,2024-07-04T22:00:16Z,MIT License,https://github.com/openai/chatgpt-retrieval-plugin
+loguru,Delgan,21063,720,2025-03-01T20:21:06Z,MIT License,https://github.com/Delgan/loguru
+Gooey,chriskiehl,21012,1027,2025-03-13T00:09:11Z,MIT License,https://github.com/chriskiehl/Gooey
+DeepSeek-Coder,deepseek-ai,20991,2353,2024-05-21T09:52:58Z,MIT License,https://github.com/deepseek-ai/DeepSeek-Coder
+magic-wormhole,magic-wormhole,20957,670,2025-03-14T04:30:25Z,MIT License,https://github.com/magic-wormhole/magic-wormhole
+ddia,Vonng,20940,4339,2025-02-21T02:05:51Z,Creative Commons Attribution 4.0 International,https://github.com/Vonng/ddia
+unilm,microsoft,20903,2607,2025-03-04T00:17:39Z,MIT License,https://github.com/microsoft/unilm
+matplotlib,matplotlib,20875,7793,2025-03-14T08:38:45Z,N/A,https://github.com/matplotlib/matplotlib
+calibre,kovidgoyal,20821,2321,2025-03-14T16:04:06Z,GNU General Public License v3.0,https://github.com/kovidgoyal/calibre
+flux,black-forest-labs,20819,1465,2025-02-06T21:48:49Z,Apache License 2.0,https://github.com/black-forest-labs/flux
+MediaCrawler,NanmiCoder,20763,6060,2025-03-13T07:08:04Z,Other,https://github.com/NanmiCoder/MediaCrawler
+agno,agno-agi,20748,2751,2025-03-14T18:01:19Z,Mozilla Public License 2.0,https://github.com/agno-agi/agno
+OCRmyPDF,ocrmypdf,20652,1332,2025-02-27T00:39:38Z,Mozilla Public License 2.0,https://github.com/ocrmypdf/OCRmyPDF
+IOPaint,Sanster,20626,2099,2024-11-23T14:58:01Z,Apache License 2.0,https://github.com/Sanster/IOPaint
+localGPT,PromtEngineer,20373,2267,2025-03-02T02:42:51Z,Apache License 2.0,https://github.com/PromtEngineer/localGPT
+mlc-llm,mlc-ai,20191,1686,2025-03-11T00:59:05Z,Apache License 2.0,https://github.com/mlc-ai/mlc-llm
+gpt-researcher,assafelovic,20106,2574,2025-03-14T10:45:53Z,Apache License 2.0,https://github.com/assafelovic/gpt-researcher
+mkdocs,mkdocs,20079,2468,2025-02-21T14:12:16Z,"BSD 2-Clause ""Simplified"" License",https://github.com/mkdocs/mkdocs
+fish-speech,fishaudio,19994,1554,2025-03-03T18:44:04Z,Apache License 2.0,https://github.com/fishaudio/fish-speech
+recommenders,recommenders-team,19914,3172,2025-03-10T14:53:08Z,MIT License,https://github.com/recommenders-team/recommenders
+ultimatevocalremovergui,Anjok07,19817,1456,2025-03-13T21:44:03Z,MIT License,https://github.com/Anjok07/ultimatevocalremovergui
+datasets,huggingface,19790,2788,2025-03-14T16:48:30Z,Apache License 2.0,https://github.com/huggingface/datasets
+haystack,deepset-ai,19788,2095,2025-03-14T17:06:52Z,Apache License 2.0,https://github.com/deepset-ai/haystack
+mlflow,mlflow,19761,4395,2025-03-14T14:00:28Z,Apache License 2.0,https://github.com/mlflow/mlflow
+rasa,RasaHQ,19650,4720,2025-03-11T23:50:17Z,Apache License 2.0,https://github.com/RasaHQ/rasa
+awesome-quant,wilsonfreitas,19581,2756,2025-03-14T01:29:59Z,N/A,https://github.com/wilsonfreitas/awesome-quant
+awesome-llm-apps,Shubhamsaboo,19581,2276,2025-03-11T23:20:55Z,Apache License 2.0,https://github.com/Shubhamsaboo/awesome-llm-apps
+awesome-free-chatgpt,LiLittleCat,19550,1355,2025-03-05T12:56:27Z,MIT License,https://github.com/LiLittleCat/awesome-free-chatgpt
+magenta,magenta,19391,3772,2025-01-17T12:10:25Z,Apache License 2.0,https://github.com/magenta/magenta
+learn_python3_spider,wistbean,19306,3815,2024-07-29T07:44:38Z,MIT License,https://github.com/wistbean/learn_python3_spider
+swarm,openai,19275,2055,2025-03-11T17:27:22Z,MIT License,https://github.com/openai/swarm
+spotify-downloader,spotDL,19162,1722,2025-02-28T02:38:19Z,MIT License,https://github.com/spotDL/spotify-downloader
+nginx-proxy,nginx-proxy,19126,3046,2025-03-10T22:55:06Z,MIT License,https://github.com/nginx-proxy/nginx-proxy
+mypy,python,19059,2890,2025-03-14T15:00:39Z,Other,https://github.com/python/mypy
+devika,stitionai,19053,2505,2024-09-19T16:11:25Z,MIT License,https://github.com/stitionai/devika
+litellm,BerriAI,18971,2353,2025-03-14T17:42:23Z,Other,https://github.com/BerriAI/litellm
+prophet,facebook,18970,4575,2024-10-28T18:51:40Z,MIT License,https://github.com/facebook/prophet
+MiniCPM-o,OpenBMB,18968,1364,2025-03-03T11:54:55Z,Apache License 2.0,https://github.com/OpenBMB/MiniCPM-o
+wagtail,wagtail,18893,4032,2025-03-13T14:40:15Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/wagtail/wagtail
+mihomo,MetaCubeX,18879,2865,2025-03-14T05:23:13Z,MIT License,https://github.com/MetaCubeX/mihomo
+ha_xiaomi_home,XiaoMi,18878,943,2025-03-14T00:49:36Z,Other,https://github.com/XiaoMi/ha_xiaomi_home
+Ciphey,bee-san,18818,1206,2025-03-05T03:09:03Z,MIT License,https://github.com/bee-san/Ciphey
+ChatPaper,kaixindelele,18785,1950,2024-04-04T02:45:02Z,Other,https://github.com/kaixindelele/ChatPaper
+Chinese-LLaMA-Alpaca,ymcui,18747,1891,2024-04-30T04:28:38Z,Apache License 2.0,https://github.com/ymcui/Chinese-LLaMA-Alpaca
+PDFMathTranslate,Byaidu,18694,1539,2025-03-13T14:42:06Z,GNU Affero General Public License v3.0,https://github.com/Byaidu/PDFMathTranslate
+onnx,onnx,18623,3721,2025-03-14T15:30:45Z,Apache License 2.0,https://github.com/onnx/onnx
+Scrapegraph-ai,ScrapeGraphAI,18612,1574,2025-03-13T21:33:05Z,MIT License,https://github.com/ScrapeGraphAI/Scrapegraph-ai
+prefect,PrefectHQ,18604,1737,2025-03-14T18:01:23Z,Apache License 2.0,https://github.com/PrefectHQ/prefect
+python-spider,Jack-Cherish,18602,5984,2024-08-19T07:32:03Z,N/A,https://github.com/Jack-Cherish/python-spider
+rembg,danielgatis,18286,1966,2025-03-10T19:23:46Z,MIT License,https://github.com/danielgatis/rembg
+sanic,sanic-org,18278,1563,2025-03-05T13:36:15Z,MIT License,https://github.com/sanic-org/sanic
+inter,rsms,18275,409,2024-11-19T03:16:13Z,SIL Open Font License 1.1,https://github.com/rsms/inter
+zipline,quantopian,18241,4795,2024-02-13T08:02:51Z,Apache License 2.0,https://github.com/quantopian/zipline
+pyscript,pyscript,18241,1461,2025-03-11T12:03:34Z,Apache License 2.0,https://github.com/pyscript/pyscript
+DeOldify,jantic,18228,2610,2024-10-19T17:17:35Z,MIT License,https://github.com/jantic/DeOldify
+deepface,serengil,18174,2514,2025-03-14T16:42:30Z,MIT License,https://github.com/serengil/deepface
+luigi,spotify,18156,2414,2025-02-01T21:38:48Z,Apache License 2.0,https://github.com/spotify/luigi
+faker,joke2k,18097,1968,2025-03-07T15:39:41Z,MIT License,https://github.com/joke2k/faker
+kivy,kivy,18094,3093,2025-03-13T06:47:19Z,MIT License,https://github.com/kivy/kivy
+WSL,microsoft,18023,868,2025-03-12T23:28:33Z,MIT License,https://github.com/microsoft/WSL
+game-programmer,miloyip,17955,2063,2024-03-28T01:05:23Z,N/A,https://github.com/miloyip/game-programmer
+pandas-ai,sinaptik-ai,17950,1681,2025-03-14T17:42:34Z,Other,https://github.com/sinaptik-ai/pandas-ai
+taipy,Avaiga,17880,1879,2025-03-14T10:29:28Z,Apache License 2.0,https://github.com/Avaiga/taipy
+peft,huggingface,17757,1777,2025-03-14T13:17:32Z,Apache License 2.0,https://github.com/huggingface/peft
+airbyte,airbytehq,17515,4378,2025-03-14T18:08:14Z,Other,https://github.com/airbytehq/airbyte
+voice-changer,w-okada,17453,1914,2025-02-15T16:26:15Z,Other,https://github.com/w-okada/voice-changer
+sd-webui-controlnet,Mikubill,17440,1999,2024-08-12T13:06:00Z,GNU General Public License v3.0,https://github.com/Mikubill/sd-webui-controlnet
+Qwen,QwenLM,17421,1442,2025-02-25T15:27:19Z,Apache License 2.0,https://github.com/QwenLM/Qwen
+searxng,searxng,17410,1757,2025-03-14T07:23:00Z,GNU Affero General Public License v3.0,https://github.com/searxng/searxng
+awesome-oss-alternatives,RunaCapital,17338,935,2024-12-26T13:42:38Z,MIT License,https://github.com/RunaCapital/awesome-oss-alternatives
+DeepFaceLab,iperov,17267,272,2024-11-13T19:29:05Z,GNU General Public License v3.0,https://github.com/iperov/DeepFaceLab
+ml-stable-diffusion,apple,17202,972,2025-01-23T16:28:43Z,MIT License,https://github.com/apple/ml-stable-diffusion
+InstaPy,InstaPy,17131,3801,2025-03-03T17:10:09Z,GNU General Public License v3.0,https://github.com/InstaPy/InstaPy
+netbox,netbox-community,17072,2666,2025-03-14T18:08:16Z,Apache License 2.0,https://github.com/netbox-community/netbox
+qlib,microsoft,16952,2853,2025-03-12T06:11:54Z,MIT License,https://github.com/microsoft/qlib
+plotly.py,plotly,16852,2613,2025-03-14T17:17:38Z,MIT License,https://github.com/plotly/plotly.py
+PyTorch-GAN,eriklindernoren,16829,4106,2024-06-18T07:08:31Z,MIT License,https://github.com/eriklindernoren/PyTorch-GAN
+ai-hedge-fund,virattt,16786,2919,2025-03-10T10:46:39Z,MIT License,https://github.com/virattt/ai-hedge-fund
+surya,VikParuchuri,16762,1093,2025-03-14T14:42:34Z,GNU General Public License v3.0,https://github.com/VikParuchuri/surya
+learn-python,trekhleb,16729,2744,2024-08-06T12:42:59Z,MIT License,https://github.com/trekhleb/learn-python
+Janus,deepseek-ai,16715,2198,2025-02-01T07:58:29Z,MIT License,https://github.com/deepseek-ai/Janus
+CodeFormer,sczhou,16705,3483,2024-10-09T20:31:41Z,Other,https://github.com/sczhou/CodeFormer
+vision,pytorch,16656,7020,2025-03-14T18:05:06Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/pytorch/vision
+typer,fastapi,16607,714,2025-03-14T10:42:10Z,MIT License,https://github.com/fastapi/typer
+pyspider,binux,16553,3687,2024-04-30T19:43:29Z,Apache License 2.0,https://github.com/binux/pyspider
+neural-networks-and-deep-learning,mnielsen,16492,6739,2024-06-02T11:18:37Z,N/A,https://github.com/mnielsen/neural-networks-and-deep-learning
+autojump,wting,16458,710,2025-02-27T16:03:23Z,Other,https://github.com/wting/autojump
+PySnooper,cool-RR,16444,951,2024-09-09T07:41:37Z,MIT License,https://github.com/cool-RR/PySnooper
+ipython,ipython,16421,4448,2025-03-12T11:41:43Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/ipython/ipython
+avatarify-python,alievk,16409,4230,2024-08-30T23:48:03Z,Other,https://github.com/alievk/avatarify-python
+backtrader,mementum,16359,4232,2024-08-19T17:47:36Z,GNU General Public License v3.0,https://github.com/mementum/backtrader
+flash-attention,Dao-AILab,16298,1542,2025-03-14T04:38:34Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/Dao-AILab/flash-attention
+GHunt,mxrch,16265,1373,2025-02-05T15:33:39Z,Other,https://github.com/mxrch/GHunt
+codellama,meta-llama,16241,1901,2024-08-12T12:49:54Z,Other,https://github.com/meta-llama/codellama
+sentence-transformers,UKPLab,16213,2563,2025-03-10T11:40:27Z,Apache License 2.0,https://github.com/UKPLab/sentence-transformers
+yfinance,ranaroussi,16213,2579,2025-03-12T18:29:02Z,Apache License 2.0,https://github.com/ranaroussi/yfinance
+click,pallets,16147,1423,2025-02-28T19:30:57Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/pallets/click
+baselines,openai,16117,4890,2024-08-01T21:31:33Z,MIT License,https://github.com/openai/baselines
+gaussian-splatting,graphdeco-inria,16063,2186,2024-10-30T13:58:31Z,Other,https://github.com/graphdeco-inria/gaussian-splatting
+SuperAGI,TransformerOptimus,16051,1934,2025-01-22T22:14:07Z,MIT License,https://github.com/TransformerOptimus/SuperAGI
+minimind,jingyaogong,16025,1759,2025-02-23T12:07:37Z,Apache License 2.0,https://github.com/jingyaogong/minimind
+ranger,ranger,15978,900,2025-03-12T15:04:22Z,GNU General Public License v3.0,https://github.com/ranger/ranger
+github-trends,avgupta456,15977,109,2025-01-25T12:51:50Z,MIT License,https://github.com/avgupta456/github-trends
+gensim,piskvorky,15898,4389,2025-02-14T14:36:48Z,GNU Lesser General Public License v2.1,https://github.com/piskvorky/gensim
+aws-cli,aws,15896,4222,2025-03-14T17:55:01Z,Other,https://github.com/aws/aws-cli
+ChatGLM2-6B,THUDM,15753,1853,2024-06-27T04:05:08Z,Other,https://github.com/THUDM/ChatGLM2-6B
+evals,openai,15711,2674,2024-12-18T22:09:47Z,Other,https://github.com/openai/evals
+RagaAI-Catalyst,raga-ai-hub,15673,3827,2025-03-11T10:37:32Z,Apache License 2.0,https://github.com/raga-ai-hub/RagaAI-Catalyst
+networkx,networkx,15491,3305,2025-03-14T00:32:48Z,Other,https://github.com/networkx/networkx
+aiohttp,aio-libs,15487,2067,2025-03-14T10:53:28Z,Other,https://github.com/aio-libs/aiohttp
+DB-GPT,eosphoros-ai,15476,2087,2025-03-14T12:48:00Z,MIT License,https://github.com/eosphoros-ai/DB-GPT
+codon,exaloop,15470,527,2025-03-05T20:46:51Z,Apache License 2.0,https://github.com/exaloop/codon
+sqlmodel,fastapi,15396,703,2025-03-10T17:28:25Z,MIT License,https://github.com/fastapi/sqlmodel
+ChuanhuChatGPT,GaiZhenbiao,15390,2292,2025-03-13T09:36:38Z,GNU General Public License v3.0,https://github.com/GaiZhenbiao/ChuanhuChatGPT
+SMSBoom,OpenEthan,15358,3669,2024-03-20T03:30:32Z,Apache License 2.0,https://github.com/OpenEthan/SMSBoom
+letta,letta-ai,15315,1598,2025-03-14T16:22:34Z,Apache License 2.0,https://github.com/letta-ai/letta
+authentik,goauthentik,15255,1028,2025-03-14T18:07:07Z,Other,https://github.com/goauthentik/authentik
+discord.py,Rapptz,15210,3809,2025-03-10T18:05:16Z,MIT License,https://github.com/Rapptz/discord.py
+pyecharts,pyecharts,15162,2860,2025-03-10T02:44:04Z,MIT License,https://github.com/pyecharts/pyecharts
+HivisionIDPhotos,Zeyi-Lin,15130,1601,2025-02-21T03:05:29Z,Apache License 2.0,https://github.com/Zeyi-Lin/HivisionIDPhotos
+YYeTsBot,tgbot-collection,15074,1840,2025-03-13T00:35:43Z,MIT License,https://github.com/tgbot-collection/YYeTsBot
+jupyter,jupyter,15048,4201,2025-02-22T02:19:38Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/jupyter/jupyter
+fabric,fabric,15044,1943,2024-04-03T00:10:27Z,"BSD 2-Clause ""Simplified"" License",https://github.com/fabric/fabric
+SWE-agent,SWE-agent,14949,1517,2025-03-14T17:40:43Z,MIT License,https://github.com/SWE-agent/SWE-agent
+maigret,soxoj,14894,1007,2025-03-14T06:18:18Z,MIT License,https://github.com/soxoj/maigret
+mackup,lra,14804,938,2025-01-16T19:02:32Z,GNU General Public License v3.0,https://github.com/lra/mackup
+faster-whisper,SYSTRAN,14778,1248,2025-01-01T14:45:17Z,MIT License,https://github.com/SYSTRAN/faster-whisper
+smolagents,huggingface,14760,1294,2025-03-14T13:05:45Z,Apache License 2.0,https://github.com/huggingface/smolagents
+DeDRM_tools,apprenticeharper,14734,1542,2024-08-20T20:39:46Z,N/A,https://github.com/apprenticeharper/DeDRM_tools
+albumentations,albumentations-team,14686,1675,2025-03-12T15:33:18Z,MIT License,https://github.com/albumentations-team/albumentations
+fauxpilot,fauxpilot,14684,632,2024-04-09T08:42:23Z,MIT License,https://github.com/fauxpilot/fauxpilot
+kirara-ai,lss233,14560,1644,2025-03-14T16:42:21Z,GNU Affero General Public License v3.0,https://github.com/lss233/kirara-ai
+py12306,pjialin,14557,3585,2024-05-10T10:02:48Z,Apache License 2.0,https://github.com/pjialin/py12306
+imgaug,aleju,14528,2456,2024-07-30T01:38:33Z,MIT License,https://github.com/aleju/imgaug
+MaxKB,1Panel-dev,14490,1928,2025-03-14T11:06:05Z,GNU General Public License v3.0,https://github.com/1Panel-dev/MaxKB
+Llama-Chinese,LlamaFamily,14482,1295,2024-09-05T13:50:43Z,N/A,https://github.com/LlamaFamily/Llama-Chinese
+powerline,powerline,14477,998,2024-09-30T00:48:39Z,Other,https://github.com/powerline/powerline
+Swin-Transformer,microsoft,14450,2101,2024-07-24T17:09:57Z,MIT License,https://github.com/microsoft/Swin-Transformer
+whisperX,m-bain,14433,1572,2025-03-05T17:52:14Z,"BSD 2-Clause ""Simplified"" License",https://github.com/m-bain/whisperX
+horovod,horovod,14421,2255,2025-02-01T10:46:59Z,Other,https://github.com/horovod/horovod
+awx,ansible,14411,3484,2025-03-14T17:27:42Z,Other,https://github.com/ansible/awx
+salt,saltstack,14407,5518,2025-03-13T01:25:41Z,Apache License 2.0,https://github.com/saltstack/salt
+pygwalker,Kanaries,14387,762,2025-03-05T08:46:47Z,Apache License 2.0,https://github.com/Kanaries/pygwalker
+mailinabox,mail-in-a-box,14331,1469,2025-02-17T21:50:15Z,Creative Commons Zero v1.0 Universal,https://github.com/mail-in-a-box/mailinabox
+LivePortrait,KwaiVGI,14317,1541,2025-02-28T13:56:41Z,Other,https://github.com/KwaiVGI/LivePortrait
+stylegan,NVlabs,14264,3189,2024-04-10T08:30:29Z,Other,https://github.com/NVlabs/stylegan
+dvc,iterative,14253,1207,2025-03-07T02:21:16Z,Apache License 2.0,https://github.com/iterative/dvc
+ChatterBot,gunthercox,14245,4464,2025-03-10T11:46:52Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/gunthercox/ChatterBot
+mamba,state-spaces,14230,1242,2025-01-18T04:25:57Z,Apache License 2.0,https://github.com/state-spaces/mamba
+iptv-api,Guovin,14180,3878,2025-03-14T10:28:51Z,MIT License,https://github.com/Guovin/iptv-api
+nni,microsoft,14143,1821,2024-07-03T10:55:10Z,MIT License,https://github.com/microsoft/nni
+labelme,wkentaro,14142,3478,2025-03-10T22:55:16Z,GNU General Public License v3.0,https://github.com/wkentaro/labelme
+vanna,vanna-ai,14141,1238,2025-02-08T17:30:27Z,MIT License,https://github.com/vanna-ai/vanna
+Cookbook,andkret,14107,2570,2025-03-05T11:41:54Z,Apache License 2.0,https://github.com/andkret/Cookbook
+flair,flairNLP,14106,2113,2025-03-14T08:09:24Z,Other,https://github.com/flairNLP/flair
+detr,facebookresearch,14101,2532,2024-03-12T15:58:25Z,Apache License 2.0,https://github.com/facebookresearch/detr
+OpenCore-Legacy-Patcher,dortania,14038,1368,2025-03-02T23:19:18Z,Other,https://github.com/dortania/OpenCore-Legacy-Patcher
+impacket,fortra,14012,3650,2025-03-13T12:26:21Z,Other,https://github.com/fortra/impacket
+ivy,ivy-llc,13997,5674,2025-02-21T00:06:46Z,Other,https://github.com/ivy-llc/ivy
+pyright,microsoft,13980,1598,2025-03-14T16:54:19Z,Other,https://github.com/microsoft/pyright
+AutoEq,jaakkopasanen,13946,2486,2024-07-27T21:23:10Z,MIT License,https://github.com/jaakkopasanen/AutoEq
+spiderfoot,smicallef,13922,2389,2024-12-15T13:13:03Z,MIT License,https://github.com/smicallef/spiderfoot
+reinforcement-learning-an-introduction,ShangtongZhang,13910,4884,2024-08-09T01:09:15Z,MIT License,https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+nltk,nltk,13901,2918,2025-03-12T11:38:54Z,Apache License 2.0,https://github.com/nltk/nltk
+buzz,chidiwilliams,13883,1027,2025-03-12T17:18:55Z,MIT License,https://github.com/chidiwilliams/buzz
+LaTeX-OCR,lukas-blecher,13859,1097,2025-01-18T15:23:58Z,MIT License,https://github.com/lukas-blecher/LaTeX-OCR
+yapf,google,13857,898,2025-03-10T04:31:03Z,Apache License 2.0,https://github.com/google/yapf
+httpx,encode,13806,882,2025-03-05T12:52:58Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/encode/httpx
+requests-html,psf,13795,986,2024-04-16T18:50:38Z,MIT License,https://github.com/psf/requests-html
+tiktoken,openai,13792,978,2025-03-09T07:26:46Z,MIT License,https://github.com/openai/tiktoken
+memray,bloomberg,13764,401,2025-03-07T00:55:20Z,Apache License 2.0,https://github.com/bloomberg/memray
+dgl,dmlc,13761,3044,2025-02-11T00:26:08Z,Apache License 2.0,https://github.com/dmlc/dgl
+transferlearning,jindongwang,13759,3834,2025-02-18T22:06:58Z,MIT License,https://github.com/jindongwang/transferlearning
+speedtest-cli,sivel,13709,1918,2024-07-20T16:58:27Z,Apache License 2.0,https://github.com/sivel/speedtest-cli
+MHDDoS,MatrixTM,13686,3104,2025-02-19T07:50:38Z,MIT License,https://github.com/MatrixTM/MHDDoS
+XSStrike,s0md3v,13683,1943,2025-02-24T19:41:34Z,GNU General Public License v3.0,https://github.com/s0md3v/XSStrike
+activitywatch,ActivityWatch,13650,615,2025-02-11T09:25:09Z,Mozilla Public License 2.0,https://github.com/ActivityWatch/activitywatch
+ChatGLM3,THUDM,13647,1598,2025-01-13T06:55:26Z,Apache License 2.0,https://github.com/THUDM/ChatGLM3
+wifiphisher,wifiphisher,13640,2635,2025-02-04T21:04:05Z,GNU General Public License v3.0,https://github.com/wifiphisher/wifiphisher
+PySimpleGUI,PySimpleGUI,13562,1830,2025-03-11T20:11:29Z,Other,https://github.com/PySimpleGUI/PySimpleGUI
+gel,geldata,13504,406,2025-03-14T07:00:09Z,Apache License 2.0,https://github.com/geldata/gel
+pre-commit,pre-commit,13502,853,2025-02-17T21:20:35Z,MIT License,https://github.com/pre-commit/pre-commit
+fail2ban,fail2ban,13465,1293,2025-03-10T21:35:35Z,Other,https://github.com/fail2ban/fail2ban
+explainshell,idank,13449,803,2024-04-08T16:05:20Z,GNU General Public License v3.0,https://github.com/idank/explainshell
+scipy,scipy,13445,5275,2025-03-14T08:58:49Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/scipy/scipy
+sympy,sympy,13397,4616,2025-03-14T13:12:10Z,Other,https://github.com/sympy/sympy
+cvat,cvat-ai,13375,3159,2025-03-14T15:36:36Z,MIT License,https://github.com/cvat-ai/cvat
+RWKV-LM,BlinkDL,13358,900,2025-02-27T09:17:01Z,Apache License 2.0,https://github.com/BlinkDL/RWKV-LM
+NeMo,NVIDIA,13325,2731,2025-03-14T18:00:56Z,Apache License 2.0,https://github.com/NVIDIA/NeMo
+alphafold,google-deepmind,13320,2348,2025-01-29T15:19:26Z,Apache License 2.0,https://github.com/google-deepmind/alphafold
+beets,beetbox,13288,1857,2025-03-13T08:21:22Z,MIT License,https://github.com/beetbox/beets
+tushare,waditu,13210,4318,2024-03-13T14:31:20Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/waditu/tushare
+EIPs,ethereum,13204,5505,2025-03-14T15:19:31Z,Creative Commons Zero v1.0 Universal,https://github.com/ethereum/EIPs
+PaddleDetection,PaddlePaddle,13181,2921,2025-03-12T06:33:40Z,Apache License 2.0,https://github.com/PaddlePaddle/PaddleDetection
+moviepy,Zulko,13145,1702,2025-02-06T21:30:02Z,MIT License,https://github.com/Zulko/moviepy
+ml-engineering,stas00,13144,799,2025-03-09T05:27:37Z,Creative Commons Attribution Share Alike 4.0 International,https://github.com/stas00/ml-engineering
+openage,SFTtech,13114,1155,2025-03-13T02:05:42Z,Other,https://github.com/SFTtech/openage
+abu,bbfamily,13085,3930,2025-03-11T05:57:03Z,GNU General Public License v3.0,https://github.com/bbfamily/abu
+gallery-dl,mikf,13038,1042,2025-03-14T09:52:21Z,GNU General Public License v2.0,https://github.com/mikf/gallery-dl
+dask,dask,13017,1750,2025-03-12T21:11:11Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/dask/dask
+httpbin,postmanlabs,12979,1829,2024-05-24T07:51:48Z,ISC License,https://github.com/postmanlabs/httpbin
+seaborn,mwaskom,12936,1968,2025-01-26T16:55:15Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/mwaskom/seaborn
+redis-py,redis,12923,2570,2025-03-14T09:55:41Z,MIT License,https://github.com/redis/redis-py
+apprise,caronc,12847,446,2025-03-12T20:27:39Z,"BSD 2-Clause ""Simplified"" License",https://github.com/caronc/apprise
+pyodide,pyodide,12832,896,2025-03-14T12:43:38Z,Mozilla Public License 2.0,https://github.com/pyodide/pyodide
+PaddleHub,PaddlePaddle,12818,2070,2024-08-07T03:17:23Z,Apache License 2.0,https://github.com/PaddlePaddle/PaddleHub
+QAnything,netease-youdao,12802,1234,2025-03-12T11:49:07Z,GNU Affero General Public License v3.0,https://github.com/netease-youdao/QAnything
+ktransformers,kvcache-ai,12790,856,2025-03-14T17:46:40Z,Apache License 2.0,https://github.com/kvcache-ai/ktransformers
+ydata-profiling,ydataai,12789,1698,2025-03-13T16:07:23Z,MIT License,https://github.com/ydataai/ydata-profiling
+Nuitka,Nuitka,12778,681,2025-03-13T10:11:50Z,Apache License 2.0,https://github.com/Nuitka/Nuitka
+LightRAG,HKUDS,12771,1809,2025-03-14T09:34:40Z,MIT License,https://github.com/HKUDS/LightRAG
+pelican,getpelican,12767,1822,2025-02-01T03:55:04Z,GNU Affero General Public License v3.0,https://github.com/getpelican/pelican
+dagster,dagster-io,12715,1622,2025-03-14T18:08:17Z,Apache License 2.0,https://github.com/dagster-io/dagster
+awesome-aws,donnemartin,12711,1713,2024-03-12T09:29:54Z,Other,https://github.com/donnemartin/awesome-aws
+dirsearch,maurosoria,12655,2354,2025-02-20T08:03:55Z,N/A,https://github.com/maurosoria/dirsearch
+pytube,pytube,12652,2544,2024-08-15T06:51:20Z,The Unlicense,https://github.com/pytube/pytube
+skyvern,Skyvern-AI,12626,952,2025-03-14T17:15:43Z,GNU Affero General Public License v3.0,https://github.com/Skyvern-AI/skyvern
+Pillow,python-pillow,12615,2261,2025-03-14T06:50:28Z,Other,https://github.com/python-pillow/Pillow
+clip-as-service,jina-ai,12602,2075,2024-01-23T10:33:43Z,Other,https://github.com/jina-ai/clip-as-service
+playwright-python,microsoft,12573,961,2025-03-13T21:02:12Z,Apache License 2.0,https://github.com/microsoft/playwright-python
+flet,flet-dev,12566,499,2025-03-12T18:05:46Z,Apache License 2.0,https://github.com/flet-dev/flet
+cookiecutter-django,cookiecutter,12562,2968,2025-03-14T17:15:03Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/cookiecutter/cookiecutter-django
+pytest,pytest-dev,12533,2764,2025-03-13T14:22:58Z,MIT License,https://github.com/pytest-dev/pytest
+scalene,plasma-umass,12524,406,2025-03-08T15:32:57Z,Apache License 2.0,https://github.com/plasma-umass/scalene
+numpy-100,rougier,12519,5909,2025-02-19T20:35:30Z,MIT License,https://github.com/rougier/numpy-100
+trl,huggingface,12499,1688,2025-03-14T13:06:48Z,Apache License 2.0,https://github.com/huggingface/trl
+SadTalker,OpenTalker,12464,2323,2024-06-26T12:51:53Z,Other,https://github.com/OpenTalker/SadTalker
+PaddleNLP,PaddlePaddle,12421,3005,2025-03-14T12:28:52Z,Apache License 2.0,https://github.com/PaddlePaddle/PaddleNLP
+pwntools,Gallopsled,12400,1740,2025-03-03T21:20:36Z,Other,https://github.com/Gallopsled/pwntools
+routersploit,threat9,12399,2333,2025-01-25T19:41:15Z,Other,https://github.com/threat9/routersploit
+onyx,onyx-dot-app,12384,1576,2025-03-14T17:56:08Z,Other,https://github.com/onyx-dot-app/onyx
+AnimatedDrawings,facebookresearch,12332,1058,2024-08-09T16:40:00Z,MIT License,https://github.com/facebookresearch/AnimatedDrawings
+pgcli,dbcli,12324,556,2025-03-07T18:47:15Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/dbcli/pgcli
+pyinstaller,pyinstaller,12212,1967,2025-03-12T20:04:41Z,Other,https://github.com/pyinstaller/pyinstaller
+theHarvester,laramies,12194,2105,2025-03-13T23:03:35Z,N/A,https://github.com/laramies/theHarvester
+developer-portfolios,emmabostian,12180,2416,2025-03-14T17:58:47Z,N/A,https://github.com/emmabostian/developer-portfolios
+pyvideotrans,jianchang512,12141,1346,2025-03-11T09:10:28Z,GNU General Public License v3.0,https://github.com/jianchang512/pyvideotrans
+tvm,apache,12096,3533,2025-03-14T12:15:19Z,Apache License 2.0,https://github.com/apache/tvm
+CustomTkinter,TomSchimansky,12086,1111,2024-09-15T16:45:56Z,MIT License,https://github.com/TomSchimansky/CustomTkinter
+sshuttle,sshuttle,12070,751,2025-03-11T21:56:59Z,GNU Lesser General Public License v2.1,https://github.com/sshuttle/sshuttle
+owasp-mastg,OWASP,12047,2397,2025-03-14T17:21:15Z,Creative Commons Attribution Share Alike 4.0 International,https://github.com/OWASP/owasp-mastg
+MOSS,OpenMOSS,12031,1144,2024-07-13T14:52:59Z,Apache License 2.0,https://github.com/OpenMOSS/MOSS
+schedule,dbader,12009,972,2024-05-25T18:41:01Z,MIT License,https://github.com/dbader/schedule
+pix2code,tonybeltramelli,12008,1443,2024-05-29T04:48:27Z,Apache License 2.0,https://github.com/tonybeltramelli/pix2code
+Open-Sora-Plan,PKU-YuanGroup,11926,1057,2025-03-06T12:11:28Z,MIT License,https://github.com/PKU-YuanGroup/Open-Sora-Plan
+sglang,sgl-project,11920,1246,2025-03-14T10:36:52Z,Apache License 2.0,https://github.com/sgl-project/sglang
+CosyVoice,FunAudioLLM,11902,1185,2025-03-13T06:22:50Z,Apache License 2.0,https://github.com/FunAudioLLM/CosyVoice
+developer,smol-ai,11898,1050,2024-04-07T07:11:03Z,MIT License,https://github.com/smol-ai/developer
+gorilla,ShishirPatil,11881,1064,2025-03-12T21:10:55Z,Apache License 2.0,https://github.com/ShishirPatil/gorilla
+hummingbot,hummingbot,11880,3317,2025-03-13T15:31:37Z,Apache License 2.0,https://github.com/hummingbot/hummingbot
+synapse,matrix-org,11874,2124,2024-04-26T15:47:23Z,Apache License 2.0,https://github.com/matrix-org/synapse
+VideoLingo,Huanshere,11852,1151,2025-03-13T07:28:05Z,Apache License 2.0,https://github.com/Huanshere/VideoLingo
+shap-e,openai,11825,981,2024-06-22T19:19:14Z,MIT License,https://github.com/openai/shap-e
+litgpt,Lightning-AI,11794,1187,2025-03-14T15:12:17Z,Apache License 2.0,https://github.com/Lightning-AI/litgpt
+External-Attention-pytorch,xmu-xiaoma666,11777,1956,2024-12-06T11:35:21Z,MIT License,https://github.com/xmu-xiaoma666/External-Attention-pytorch
+Megatron-LM,NVIDIA,11753,2645,2025-03-14T15:49:47Z,Other,https://github.com/NVIDIA/Megatron-LM
+h2ogpt,h2oai,11717,1285,2025-03-11T08:25:04Z,Apache License 2.0,https://github.com/h2oai/h2ogpt
+owl,camel-ai,11685,1256,2025-03-14T17:20:15Z,N/A,https://github.com/camel-ai/owl
+theZoo,ytisf,11665,2571,2024-05-22T10:38:47Z,Other,https://github.com/ytisf/theZoo
+Meshroom,alicevision,11645,1121,2025-03-12T11:45:21Z,Other,https://github.com/alicevision/Meshroom
+PaddleSpeech,PaddlePaddle,11629,1896,2025-03-13T03:55:15Z,Apache License 2.0,https://github.com/PaddlePaddle/PaddleSpeech
+aisuite,andrewyng,11628,1129,2025-03-06T03:22:17Z,MIT License,https://github.com/andrewyng/aisuite
+borg,borgbackup,11614,757,2025-03-12T10:39:30Z,Other,https://github.com/borgbackup/borg
+mycli,dbcli,11584,665,2025-02-08T21:11:29Z,Other,https://github.com/dbcli/mycli
+social-engineer-toolkit,trustedsec,11569,2879,2024-10-21T15:46:18Z,N/A,https://github.com/trustedsec/social-engineer-toolkit
+optuna,optuna,11553,1071,2025-03-14T07:32:38Z,MIT License,https://github.com/optuna/optuna
+MoneyPrinter,FujiwaraChoki,11542,1496,2025-03-03T12:01:40Z,MIT License,https://github.com/FujiwaraChoki/MoneyPrinter
+gdb-dashboard,cyrus-and,11539,796,2025-02-09T17:13:43Z,MIT License,https://github.com/cyrus-and/gdb-dashboard
+Wav2Lip,Rudrabha,11533,2431,2025-02-10T23:28:56Z,N/A,https://github.com/Rudrabha/Wav2Lip
+nicegui,zauberzeug,11514,697,2025-03-13T16:57:07Z,MIT License,https://github.com/zauberzeug/nicegui
+LoRA,microsoft,11497,726,2024-12-17T03:55:52Z,MIT License,https://github.com/microsoft/LoRA
+InstantID,instantX-research,11485,831,2024-07-18T04:12:48Z,Apache License 2.0,https://github.com/instantX-research/InstantID
+peewee,coleifer,11426,1375,2025-02-21T01:50:19Z,MIT License,https://github.com/coleifer/peewee
+Douyin_TikTok_Download_API,Evil0ctal,11419,1720,2025-03-04T06:01:57Z,Apache License 2.0,https://github.com/Evil0ctal/Douyin_TikTok_Download_API
+Photon,s0md3v,11399,1543,2024-08-16T05:39:15Z,GNU General Public License v3.0,https://github.com/s0md3v/Photon
+ludwig,ludwig-ai,11366,1201,2025-03-03T20:40:07Z,Apache License 2.0,https://github.com/ludwig-ai/ludwig
+deep_learning_object_detection,hoya012,11365,2778,2024-02-12T09:30:31Z,N/A,https://github.com/hoya012/deep_learning_object_detection
+opensnitch,evilsocket,11359,541,2025-03-11T19:28:07Z,GNU General Public License v3.0,https://github.com/evilsocket/opensnitch
+prowler,prowler-cloud,11345,1635,2025-03-14T15:08:33Z,Apache License 2.0,https://github.com/prowler-cloud/prowler
+urh,jopohl,11322,903,2025-01-24T10:53:05Z,GNU General Public License v3.0,https://github.com/jopohl/urh
+pytorch-grad-cam,jacobgil,11272,1607,2025-03-14T05:39:18Z,MIT License,https://github.com/jacobgil/pytorch-grad-cam
+pipx,pypa,11259,448,2025-03-10T18:14:28Z,MIT License,https://github.com/pypa/pipx
+Statistical-Learning-Method_Code,Dod-o,11258,2898,2024-11-13T06:36:04Z,N/A,https://github.com/Dod-o/Statistical-Learning-Method_Code
+marimo,marimo-team,11236,433,2025-03-14T17:53:41Z,Apache License 2.0,https://github.com/marimo-team/marimo
+DALLE2-pytorch,lucidrains,11234,1091,2024-05-11T19:18:10Z,MIT License,https://github.com/lucidrains/DALLE2-pytorch
+ddddocr,sml2h3,11234,1923,2024-12-30T07:28:39Z,MIT License,https://github.com/sml2h3/ddddocr
+macos,dockur,11211,410,2025-03-14T13:10:23Z,MIT License,https://github.com/dockur/macos
+open_clip,mlfoundations,11211,1061,2025-03-01T00:30:32Z,Other,https://github.com/mlfoundations/open_clip
+MoneyPrinterV2,FujiwaraChoki,11201,1069,2025-03-11T17:28:00Z,GNU Affero General Public License v3.0,https://github.com/FujiwaraChoki/MoneyPrinterV2
+LLMSurvey,RUCAIBox,11182,875,2025-03-11T09:51:42Z,N/A,https://github.com/RUCAIBox/LLMSurvey
+TinyZero,Jiayi-Pan,11173,1421,2025-03-10T20:37:04Z,Apache License 2.0,https://github.com/Jiayi-Pan/TinyZero
+scapy,secdev,11161,2077,2025-03-10T21:14:34Z,GNU General Public License v2.0,https://github.com/secdev/scapy
+AnimateDiff,guoyww,11139,904,2024-07-31T01:14:15Z,Apache License 2.0,https://github.com/guoyww/AnimateDiff
+llmware,llmware-ai,11133,1762,2025-03-04T21:22:35Z,Apache License 2.0,https://github.com/llmware-ai/llmware
+stylegan2,NVlabs,11067,2532,2024-05-18T15:55:42Z,Other,https://github.com/NVlabs/stylegan2
+pyautogui,asweigart,11066,1309,2024-08-20T18:34:57Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/asweigart/pyautogui
+outlines,dottxt-ai,11049,571,2025-03-13T18:32:38Z,Apache License 2.0,https://github.com/dottxt-ai/outlines
+english-words,dwyl,11044,1886,2025-01-06T17:34:06Z,The Unlicense,https://github.com/dwyl/english-words
+awesome-chatgpt-zh,EmbraceAGI,11039,915,2024-11-05T10:24:21Z,MIT License,https://github.com/EmbraceAGI/awesome-chatgpt-zh
+CogVideo,THUDM,10960,1048,2025-03-03T02:57:29Z,Apache License 2.0,https://github.com/THUDM/CogVideo
+OpenLLM,bentoml,10959,693,2025-03-12T13:59:30Z,Apache License 2.0,https://github.com/bentoml/OpenLLM
+fsociety,Manisso,10955,2018,2024-08-08T19:55:47Z,MIT License,https://github.com/Manisso/fsociety
+claude-engineer,Doriandarko,10910,1154,2024-12-12T22:08:15Z,N/A,https://github.com/Doriandarko/claude-engineer
+akshare,akfamily,10870,2103,2025-03-14T12:40:53Z,MIT License,https://github.com/akfamily/akshare
+python-mastery,dabeaz-course,10862,1837,2024-08-10T17:51:39Z,Creative Commons Attribution Share Alike 4.0 International,https://github.com/dabeaz-course/python-mastery
+LibreTranslate,LibreTranslate,10856,1026,2025-03-05T07:12:11Z,GNU Affero General Public License v3.0,https://github.com/LibreTranslate/LibreTranslate
+scientific-visualization-book,rougier,10842,996,2024-01-22T13:21:20Z,Other,https://github.com/rougier/scientific-visualization-book
+DALL-E,openai,10838,1938,2024-01-31T15:42:28Z,Other,https://github.com/openai/DALL-E
+chia-blockchain,Chia-Network,10837,2036,2025-03-14T17:48:17Z,Apache License 2.0,https://github.com/Chia-Network/chia-blockchain
+undetected-chromedriver,ultrafunkamsterdam,10836,1200,2024-06-25T09:45:23Z,GNU General Public License v3.0,https://github.com/ultrafunkamsterdam/undetected-chromedriver
+chalice,aws,10797,1004,2025-02-05T20:37:52Z,Apache License 2.0,https://github.com/aws/chalice
+mvt,mvt-project,10775,1033,2025-03-11T18:06:31Z,Other,https://github.com/mvt-project/mvt
+tweepy,tweepy,10761,4611,2025-02-12T19:47:42Z,MIT License,https://github.com/tweepy/tweepy
+starlette,encode,10728,983,2025-03-08T13:02:33Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/encode/starlette
+magic-animate,magic-research,10704,1092,2024-06-21T20:23:43Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/magic-research/magic-animate
+howdoi,gleitz,10683,869,2024-10-22T14:24:10Z,MIT License,https://github.com/gleitz/howdoi
+jinja,pallets,10664,1637,2025-03-05T20:15:47Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/pallets/jinja
+spinningup,openai,10656,2291,2024-08-05T03:30:30Z,MIT License,https://github.com/openai/spinningup
+Telethon,LonamiWebs,10568,1456,2025-03-14T16:27:45Z,MIT License,https://github.com/LonamiWebs/Telethon
+whoogle-search,benbusby,10564,999,2025-03-10T17:57:27Z,MIT License,https://github.com/benbusby/whoogle-search
+txtai,neuml,10559,671,2025-03-14T17:14:16Z,Apache License 2.0,https://github.com/neuml/txtai
+bpytop,aristocratos,10539,414,2024-03-04T09:54:17Z,Apache License 2.0,https://github.com/aristocratos/bpytop
+shell_gpt,TheR1D,10522,830,2025-02-17T04:11:14Z,MIT License,https://github.com/TheR1D/shell_gpt
+psutil,giampaolo,10515,1391,2025-03-10T00:41:05Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/giampaolo/psutil
+dbt-core,dbt-labs,10512,1697,2025-03-14T09:09:59Z,Apache License 2.0,https://github.com/dbt-labs/dbt-core
+statsmodels,statsmodels,10500,3252,2025-02-19T12:26:31Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/statsmodels/statsmodels
+yolov10,THU-MIG,10489,1050,2025-03-14T02:53:58Z,GNU Affero General Public License v3.0,https://github.com/THU-MIG/yolov10
+docker-android,budtmo,10454,1343,2025-03-11T07:37:56Z,Other,https://github.com/budtmo/docker-android
+robotframework,robotframework,10417,2395,2025-03-13T15:31:19Z,Apache License 2.0,https://github.com/robotframework/robotframework
+django-cms,django-cms,10381,3145,2025-03-14T11:32:39Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/django-cms/django-cms
+streamlink,streamlink,10369,1124,2025-03-10T20:06:12Z,"BSD 2-Clause ""Simplified"" License",https://github.com/streamlink/streamlink
+ffmpeg-python,kkroening,10360,903,2024-08-04T00:07:08Z,Apache License 2.0,https://github.com/kkroening/ffmpeg-python
+Osintgram,Datalux,10342,2309,2024-07-06T11:46:50Z,GNU General Public License v3.0,https://github.com/Datalux/Osintgram
+word_cloud,amueller,10333,2330,2024-11-10T14:21:42Z,MIT License,https://github.com/amueller/word_cloud
+yolov3,ultralytics,10332,3455,2025-01-30T16:42:44Z,GNU Affero General Public License v3.0,https://github.com/ultralytics/yolov3
+F5-TTS,SWivid,10332,1417,2025-03-14T09:31:44Z,MIT License,https://github.com/SWivid/F5-TTS
+kornia,kornia,10307,1004,2025-03-13T10:37:24Z,Apache License 2.0,https://github.com/kornia/kornia
+kohya_ss,bmaltais,10281,1322,2025-03-06T00:10:24Z,Apache License 2.0,https://github.com/bmaltais/kohya_ss
+numba,numba,10276,1147,2025-03-12T20:39:25Z,"BSD 2-Clause ""Simplified"" License",https://github.com/numba/numba
+great_expectations,great-expectations,10252,1567,2025-03-14T17:41:14Z,Apache License 2.0,https://github.com/great-expectations/great_expectations
+q,harelba,10243,424,2024-07-23T01:17:37Z,GNU General Public License v3.0,https://github.com/harelba/q
+cleanlab,cleanlab,10226,800,2025-03-12T01:13:25Z,GNU Affero General Public License v3.0,https://github.com/cleanlab/cleanlab
+kedro,kedro-org,10218,930,2025-03-14T15:41:07Z,Apache License 2.0,https://github.com/kedro-org/kedro
+the-algorithm-ml,twitter,10213,2225,2024-07-10T12:48:24Z,GNU Affero General Public License v3.0,https://github.com/twitter/the-algorithm-ml
+thumbor,thumbor,10206,841,2025-03-01T20:33:55Z,MIT License,https://github.com/thumbor/thumbor
+segmentation_models.pytorch,qubvel-org,10189,1717,2025-03-14T07:55:14Z,MIT License,https://github.com/qubvel-org/segmentation_models.pytorch
+Sublist3r,aboul3la,10185,2139,2024-08-02T00:00:30Z,GNU General Public License v2.0,https://github.com/aboul3la/Sublist3r
+sqlalchemy,sqlalchemy,10156,1486,2025-03-14T12:58:39Z,MIT License,https://github.com/sqlalchemy/sqlalchemy
+qutebrowser,qutebrowser,10153,1026,2025-03-12T14:53:50Z,GNU General Public License v3.0,https://github.com/qutebrowser/qutebrowser
+camel,camel-ai,10150,1033,2025-03-14T17:43:48Z,Apache License 2.0,https://github.com/camel-ai/camel
+lerobot,huggingface,10131,1122,2025-03-14T16:07:14Z,Apache License 2.0,https://github.com/huggingface/lerobot
+langgraph,langchain-ai,10127,1674,2025-03-14T17:18:46Z,MIT License,https://github.com/langchain-ai/langgraph
+node-gyp,nodejs,10124,1819,2025-02-20T04:18:03Z,MIT License,https://github.com/nodejs/node-gyp
+practical-python,dabeaz-course,10121,6708,2024-08-10T03:38:37Z,Creative Commons Attribution Share Alike 4.0 International,https://github.com/dabeaz-course/practical-python
+stable-diffusion-webui-forge,lllyasviel,10116,1037,2025-03-04T00:36:20Z,GNU Affero General Public License v3.0,https://github.com/lllyasviel/stable-diffusion-webui-forge
+AudioGPT,AIGC-Audio,10110,862,2024-07-06T21:35:18Z,Other,https://github.com/AIGC-Audio/AudioGPT
+visdom,fossasia,10099,1138,2024-05-30T16:53:59Z,Apache License 2.0,https://github.com/fossasia/visdom
+promptflow,microsoft,10083,954,2025-03-11T20:21:00Z,MIT License,https://github.com/microsoft/promptflow
+stable-baselines3,DLR-RM,10080,1791,2025-03-12T18:34:45Z,MIT License,https://github.com/DLR-RM/stable-baselines3
+rq,rq,10061,1431,2025-03-14T13:23:09Z,Other,https://github.com/rq/rq
+modin,modin-project,10056,657,2025-03-13T03:53:03Z,Apache License 2.0,https://github.com/modin-project/modin
+StreamDiffusion,cumulo-autumn,10054,746,2024-12-04T08:05:55Z,Apache License 2.0,https://github.com/cumulo-autumn/StreamDiffusion
+awesome-django,wsvincent,10026,1351,2025-03-07T13:10:15Z,Creative Commons Zero v1.0 Universal,https://github.com/wsvincent/awesome-django
+gunicorn,benoitc,10011,1769,2024-10-25T09:36:15Z,Other,https://github.com/benoitc/gunicorn
+cupy,cupy,9988,888,2025-03-12T13:58:31Z,MIT License,https://github.com/cupy/cupy
+nerfstudio,nerfstudio-project,9974,1374,2025-03-01T23:19:36Z,Apache License 2.0,https://github.com/nerfstudio-project/nerfstudio
+PythonPark,Jack-Cherish,9967,1630,2024-11-26T06:12:16Z,N/A,https://github.com/Jack-Cherish/PythonPark
+mlcourse.ai,Yorko,9938,5687,2025-01-06T16:33:58Z,Other,https://github.com/Yorko/mlcourse.ai
+Theano,Theano,9933,2490,2024-01-15T03:16:24Z,Other,https://github.com/Theano/Theano
+text-generation-inference,huggingface,9879,1161,2025-03-14T16:07:11Z,Apache License 2.0,https://github.com/huggingface/text-generation-inference
+datasette,simonw,9866,715,2025-03-12T22:42:14Z,Apache License 2.0,https://github.com/simonw/datasette
+doccano,doccano,9846,1758,2024-11-22T21:41:34Z,MIT License,https://github.com/doccano/doccano
+cython,cython,9838,1515,2025-03-14T10:16:18Z,Apache License 2.0,https://github.com/cython/cython
+LaZagne,AlessandroZ,9837,2052,2025-02-15T21:37:03Z,GNU Lesser General Public License v3.0,https://github.com/AlessandroZ/LaZagne
+sonnet,google-deepmind,9827,1302,2025-02-14T11:42:03Z,Apache License 2.0,https://github.com/google-deepmind/sonnet
+django-allauth,pennersr,9809,3073,2025-03-14T16:21:11Z,MIT License,https://github.com/pennersr/django-allauth
+Pytorch-UNet,milesial,9794,2572,2024-08-11T03:00:15Z,GNU General Public License v3.0,https://github.com/milesial/Pytorch-UNet
+olmocr,allenai,9792,641,2025-03-14T17:53:44Z,Apache License 2.0,https://github.com/allenai/olmocr
+instructor,instructor-ai,9780,753,2025-03-14T16:11:38Z,MIT License,https://github.com/instructor-ai/instructor
+YOLOX,Megvii-BaseDetection,9703,2275,2024-11-20T07:46:56Z,Apache License 2.0,https://github.com/Megvii-BaseDetection/YOLOX
+keep,keephq,9686,893,2025-03-14T15:51:06Z,Other,https://github.com/keephq/keep
+pip,pypa,9685,3066,2025-03-14T03:58:32Z,MIT License,https://github.com/pypa/pip
+altair,vega,9641,802,2025-03-08T18:49:42Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/vega/altair
+PySyft,OpenMined,9636,1998,2025-02-23T12:40:40Z,Apache License 2.0,https://github.com/OpenMined/PySyft
+pifuhd,facebookresearch,9626,1470,2024-08-19T14:38:14Z,Other,https://github.com/facebookresearch/pifuhd
+wandb,wandb,9625,715,2025-03-11T22:39:18Z,MIT License,https://github.com/wandb/wandb
+Tkinter-Designer,ParthJadhav,9622,876,2024-08-21T12:18:57Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/ParthJadhav/Tkinter-Designer
+tflearn,tflearn,9620,2409,2024-05-06T11:34:20Z,Other,https://github.com/tflearn/tflearn
+falcon,falconry,9610,953,2025-03-14T16:35:42Z,Apache License 2.0,https://github.com/falconry/falcon
+icecream,gruns,9587,199,2025-03-08T06:11:36Z,MIT License,https://github.com/gruns/icecream
+python-prompt-toolkit,prompt-toolkit,9584,728,2025-01-21T09:21:54Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/prompt-toolkit/python-prompt-toolkit
+LangBot,RockChinQ,9564,695,2025-03-14T14:41:41Z,GNU Affero General Public License v3.0,https://github.com/RockChinQ/LangBot
+wait-for-it,vishnubob,9547,2278,2024-06-10T23:39:24Z,MIT License,https://github.com/vishnubob/wait-for-it
+SeleniumBase,seleniumbase,9537,1229,2025-03-12T13:53:19Z,MIT License,https://github.com/seleniumbase/SeleniumBase
+speechbrain,speechbrain,9504,1451,2025-03-10T15:23:27Z,Apache License 2.0,https://github.com/speechbrain/speechbrain
+instaloader,instaloader,9498,1257,2025-01-29T07:14:19Z,MIT License,https://github.com/instaloader/instaloader
+petals,bigscience-workshop,9496,542,2024-09-07T11:54:28Z,MIT License,https://github.com/bigscience-workshop/petals
+minbpe,karpathy,9481,899,2024-07-01T14:20:22Z,MIT License,https://github.com/karpathy/minbpe
+ChatRWKV,BlinkDL,9465,705,2025-01-28T06:51:26Z,Apache License 2.0,https://github.com/BlinkDL/ChatRWKV
+awesome-math,rossant,9450,1002,2024-12-30T20:07:07Z,N/A,https://github.com/rossant/awesome-math
+coursera-dl,coursera-dl,9441,2225,2024-05-11T21:24:57Z,GNU Lesser General Public License v3.0,https://github.com/coursera-dl/coursera-dl
+self-operating-computer,OthersideAI,9437,1278,2025-02-28T22:54:05Z,MIT License,https://github.com/OthersideAI/self-operating-computer
+Machine-Learning,Jack-Cherish,9435,5099,2024-07-12T11:28:35Z,N/A,https://github.com/Jack-Cherish/Machine-Learning
+TikTokDownloader,JoeanAmier,9431,1536,2025-03-12T13:16:16Z,GNU General Public License v3.0,https://github.com/JoeanAmier/TikTokDownloader
+serverless-application-model,aws,9426,2406,2025-03-11T16:05:33Z,Apache License 2.0,https://github.com/aws/serverless-application-model
+web-ui,browser-use,9389,1540,2025-03-11T15:54:05Z,MIT License,https://github.com/browser-use/web-ui
+fluentui-emoji,microsoft,9381,521,2025-01-30T19:33:58Z,MIT License,https://github.com/microsoft/fluentui-emoji
+portia,scrapinghub,9375,1402,2024-06-26T19:43:46Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/scrapinghub/portia
+WizardLM,nlpxucan,9355,730,2024-08-05T08:31:05Z,N/A,https://github.com/nlpxucan/WizardLM
+nougat,facebookresearch,9320,601,2025-02-21T16:38:00Z,MIT License,https://github.com/facebookresearch/nougat
+WSABuilds,MustardChef,9311,1546,2025-03-05T16:20:37Z,GNU Affero General Public License v3.0,https://github.com/MustardChef/WSABuilds
+paramiko,paramiko,9287,2013,2025-02-04T02:38:32Z,GNU Lesser General Public License v2.1,https://github.com/paramiko/paramiko
+TextBlob,sloria,9284,1157,2025-03-10T20:57:21Z,MIT License,https://github.com/sloria/TextBlob
+fiftyone,voxel51,9274,606,2025-03-14T16:27:57Z,Apache License 2.0,https://github.com/voxel51/fiftyone
+FlexLLMGen,FMInference,9273,564,2024-10-28T03:05:41Z,Apache License 2.0,https://github.com/FMInference/FlexLLMGen
+git-filter-repo,newren,9240,750,2025-02-28T03:50:27Z,Other,https://github.com/newren/git-filter-repo
+HunyuanVideo,Tencent,9235,760,2025-03-12T03:37:52Z,Other,https://github.com/Tencent/HunyuanVideo
+pydub,jiaaro,9235,1073,2024-07-25T08:47:51Z,MIT License,https://github.com/jiaaro/pydub
+boto3,boto,9232,1900,2025-03-13T19:13:28Z,Apache License 2.0,https://github.com/boto/boto3
+ComfyUI-Manager,ltdrdata,9216,1211,2025-03-14T09:27:01Z,GNU General Public License v3.0,https://github.com/ltdrdata/ComfyUI-Manager
+autokeras,keras-team,9208,1409,2024-12-16T18:00:41Z,Apache License 2.0,https://github.com/keras-team/autokeras
+yolov9,WongKinYiu,9194,1508,2024-08-09T13:48:20Z,GNU General Public License v3.0,https://github.com/WongKinYiu/yolov9
+xformers,facebookresearch,9175,652,2025-03-14T13:59:36Z,Other,https://github.com/facebookresearch/xformers
+ebook2audiobook,DrewThomasson,9166,647,2025-03-14T06:22:12Z,Apache License 2.0,https://github.com/DrewThomasson/ebook2audiobook
+DrissionPage,g1879,9164,839,2024-12-24T14:18:53Z,Other,https://github.com/g1879/DrissionPage
+chisel,facebook,9153,809,2025-02-05T15:21:54Z,MIT License,https://github.com/facebook/chisel
+hydra,facebookresearch,9118,665,2025-03-14T17:51:28Z,MIT License,https://github.com/facebookresearch/hydra
+byob,malwaredllc,9115,2139,2025-03-10T23:35:13Z,GNU General Public License v3.0,https://github.com/malwaredllc/byob
+pytorch3d,facebookresearch,9105,1354,2025-03-11T19:28:36Z,Other,https://github.com/facebookresearch/pytorch3d
+Reinforcement-learning-with-tensorflow,MorvanZhou,9096,5033,2024-03-31T05:40:51Z,MIT License,https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow
+awesome-scala,lauris,9077,1272,2024-09-20T08:21:10Z,Apache License 2.0,https://github.com/lauris/awesome-scala
+attention-is-all-you-need-pytorch,jadore801120,9067,2011,2024-04-16T07:27:13Z,MIT License,https://github.com/jadore801120/attention-is-all-you-need-pytorch
+videos,3b1b,9060,1854,2025-02-24T14:01:21Z,Other,https://github.com/3b1b/videos
+hamulete,hoochanlon,9022,1876,2025-02-14T08:23:04Z,N/A,https://github.com/hoochanlon/hamulete
+OpenChatKit,togethercomputer,9019,1015,2024-04-09T19:09:58Z,Apache License 2.0,https://github.com/togethercomputer/OpenChatKit
+denoising-diffusion-pytorch,lucidrains,9016,1101,2024-10-09T13:34:42Z,MIT License,https://github.com/lucidrains/denoising-diffusion-pytorch
+http-prompt,httpie,9012,329,2024-05-21T06:03:21Z,MIT License,https://github.com/httpie/http-prompt
+awesome-honeypots,paralax,8988,1277,2024-08-18T13:12:55Z,Artistic License 2.0,https://github.com/paralax/awesome-honeypots
+uvicorn,encode,8968,775,2025-03-09T16:21:59Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/encode/uvicorn
+FlagEmbedding,FlagOpen,8940,646,2025-03-08T04:34:24Z,MIT License,https://github.com/FlagOpen/FlagEmbedding
+so-vits-svc-fork,voicepaw,8932,1185,2025-03-03T17:08:28Z,Other,https://github.com/voicepaw/so-vits-svc-fork
+U-2-Net,xuebinqin,8916,1537,2024-06-26T04:16:45Z,Apache License 2.0,https://github.com/xuebinqin/U-2-Net
+pymc,pymc-devs,8914,2064,2025-03-14T07:41:26Z,Other,https://github.com/pymc-devs/pymc
+pyod,yzhao062,8914,1393,2025-01-13T08:58:34Z,"BSD 2-Clause ""Simplified"" License",https://github.com/yzhao062/pyod
+opendrop,seemoo-lab,8914,281,2024-06-11T10:41:13Z,GNU General Public License v3.0,https://github.com/seemoo-lab/opendrop
+PaddleSeg,PaddlePaddle,8913,1691,2025-02-17T04:09:00Z,Apache License 2.0,https://github.com/PaddlePaddle/PaddleSeg
+server,triton-inference-server,8892,1537,2025-03-14T17:30:35Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/triton-inference-server/server
+FlareSolverr,FlareSolverr,8885,760,2025-03-04T02:05:23Z,MIT License,https://github.com/FlareSolverr/FlareSolverr
+chinese-dos-games,rwv,8873,1073,2024-08-07T09:52:31Z,GNU General Public License v3.0,https://github.com/rwv/chinese-dos-games
+espnet,espnet,8870,2229,2025-03-14T11:17:42Z,Apache License 2.0,https://github.com/espnet/espnet
+axolotl,axolotl-ai-cloud,8854,972,2025-03-14T16:19:39Z,Apache License 2.0,https://github.com/axolotl-ai-cloud/axolotl
+FunASR,modelscope,8837,909,2025-03-13T11:28:41Z,Other,https://github.com/modelscope/FunASR
+waydroid,waydroid,8830,359,2025-03-05T18:26:24Z,GNU General Public License v3.0,https://github.com/waydroid/waydroid
+pypdf,py-pdf,8820,1444,2025-03-14T09:52:32Z,Other,https://github.com/py-pdf/pypdf
+arrow,arrow-py,8820,694,2024-11-20T05:42:05Z,Apache License 2.0,https://github.com/arrow-py/arrow
+llama-cpp-python,abetlen,8814,1081,2025-03-12T09:30:40Z,MIT License,https://github.com/abetlen/llama-cpp-python
+ansible-for-devops,geerlingguy,8811,3566,2024-03-08T11:04:55Z,MIT License,https://github.com/geerlingguy/ansible-for-devops
+sigma,SigmaHQ,8800,2288,2025-03-04T23:59:37Z,Other,https://github.com/SigmaHQ/sigma
+einops,arogozhnikov,8790,361,2025-02-09T05:23:40Z,MIT License,https://github.com/arogozhnikov/einops
+pattern,clips,8782,1588,2024-06-10T18:46:41Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/clips/pattern
+RobustVideoMatting,PeterL1n,8766,1150,2024-04-02T16:26:48Z,GNU General Public License v3.0,https://github.com/PeterL1n/RobustVideoMatting
+FastUI,pydantic,8749,332,2024-12-01T04:07:08Z,MIT License,https://github.com/pydantic/FastUI
+weiboSpider,dataabc,8736,2007,2025-02-06T08:08:12Z,N/A,https://github.com/dataabc/weiboSpider
+ImageAI,OlafenwaMoses,8736,2193,2024-08-03T09:45:20Z,MIT License,https://github.com/OlafenwaMoses/ImageAI
+OneForAll,shmilylty,8736,1342,2024-10-23T15:19:00Z,GNU General Public License v3.0,https://github.com/shmilylty/OneForAll
+microk8s,canonical,8721,788,2025-03-14T10:05:35Z,Apache License 2.0,https://github.com/canonical/microk8s
+demucs,facebookresearch,8715,1139,2024-04-24T20:25:19Z,MIT License,https://github.com/facebookresearch/demucs
+mmsegmentation,open-mmlab,8704,2676,2024-08-13T08:53:34Z,Apache License 2.0,https://github.com/open-mmlab/mmsegmentation
+Monocraft,IdreesInc,8689,126,2025-01-02T17:17:38Z,SIL Open Font License 1.1,https://github.com/IdreesInc/Monocraft
+pyro,pyro-ppl,8684,985,2025-03-12T19:43:33Z,Apache License 2.0,https://github.com/pyro-ppl/pyro
+Amphion,open-mmlab,8681,677,2025-03-03T12:25:25Z,MIT License,https://github.com/open-mmlab/Amphion
+healthchecks,healthchecks,8662,869,2025-03-14T12:12:29Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/healthchecks/healthchecks
+sqlfluff,sqlfluff,8660,791,2025-03-08T19:07:04Z,MIT License,https://github.com/sqlfluff/sqlfluff
+xonsh,xonsh,8659,663,2025-03-12T07:41:33Z,Other,https://github.com/xonsh/xonsh
+supervisor,Supervisor,8654,1248,2025-01-25T19:42:44Z,Other,https://github.com/Supervisor/supervisor
+speech_recognition,Uberi,8641,2412,2025-01-30T14:38:25Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/Uberi/speech_recognition
+cookiecutter-data-science,drivendataorg,8639,2499,2025-03-11T04:23:24Z,MIT License,https://github.com/drivendataorg/cookiecutter-data-science
+WARP-Clash-API,vvbbnn00,8623,1155,2024-09-04T00:11:27Z,GNU General Public License v3.0,https://github.com/vvbbnn00/WARP-Clash-API
+google-images-download,hardikvasa,8620,2109,2024-02-19T17:21:18Z,MIT License,https://github.com/hardikvasa/google-images-download
+metaflow,Netflix,8620,816,2025-03-13T19:03:35Z,Apache License 2.0,https://github.com/Netflix/metaflow
+flasky,miguelgrinberg,8619,4211,2024-06-30T10:53:23Z,MIT License,https://github.com/miguelgrinberg/flasky
+pupy,n1nj4sec,8616,1817,2024-03-22T08:52:53Z,Other,https://github.com/n1nj4sec/pupy
+mealie,mealie-recipes,8613,849,2025-03-14T11:35:06Z,GNU Affero General Public License v3.0,https://github.com/mealie-recipes/mealie
+spyder,spyder-ide,8602,1655,2025-03-14T15:38:24Z,MIT License,https://github.com/spyder-ide/spyder
+anomaly-detection-resources,yzhao062,8599,1758,2024-12-21T20:25:14Z,GNU Affero General Public License v3.0,https://github.com/yzhao062/anomaly-detection-resources
+FreeAskInternet,nashsu,8591,908,2024-04-18T06:46:33Z,Apache License 2.0,https://github.com/nashsu/FreeAskInternet
+ml-ferret,apple,8590,507,2024-10-09T02:40:44Z,Other,https://github.com/apple/ml-ferret
+apex,NVIDIA,8578,1435,2025-03-14T16:47:04Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/NVIDIA/apex
+Gymnasium,Farama-Foundation,8574,955,2025-03-13T12:02:53Z,MIT License,https://github.com/Farama-Foundation/Gymnasium
+conan,conan-io,8571,1008,2025-03-14T10:02:59Z,MIT License,https://github.com/conan-io/conan
+pywal,dylanaraps,8569,336,2024-01-27T15:51:44Z,MIT License,https://github.com/dylanaraps/pywal
+bottle,bottlepy,8556,1477,2025-02-16T11:32:34Z,MIT License,https://github.com/bottlepy/bottle
+autogluon,autogluon,8550,974,2025-03-11T20:08:18Z,Apache License 2.0,https://github.com/autogluon/autogluon
+ctf-wiki,ctf-wiki,8546,1389,2025-03-13T09:58:42Z,Other,https://github.com/ctf-wiki/ctf-wiki
+ImageBind,facebookresearch,8543,801,2024-07-31T18:44:13Z,Other,https://github.com/facebookresearch/ImageBind
+machine_learning_examples,lazyprogrammer,8526,6379,2025-02-19T07:23:31Z,N/A,https://github.com/lazyprogrammer/machine_learning_examples
+Airtest,AirtestProject,8514,1326,2024-10-09T04:15:02Z,Apache License 2.0,https://github.com/AirtestProject/Airtest
+Resume-Matcher,srbhr,8513,3082,2025-03-06T04:52:11Z,Apache License 2.0,https://github.com/srbhr/Resume-Matcher
+python-for-android,kivy,8508,1904,2025-03-07T08:52:48Z,MIT License,https://github.com/kivy/python-for-android
+QUANTAXIS,yutiansut,8498,3025,2025-02-27T10:22:51Z,MIT License,https://github.com/yutiansut/QUANTAXIS
+OctoPrint,OctoPrint,8481,1683,2025-03-11T14:37:17Z,GNU Affero General Public License v3.0,https://github.com/OctoPrint/OctoPrint
+accelerate,huggingface,8476,1048,2025-03-14T14:13:44Z,Apache License 2.0,https://github.com/huggingface/accelerate
+homelab,khuedoan,8474,789,2025-01-21T17:07:00Z,GNU General Public License v3.0,https://github.com/khuedoan/homelab
+deeplake,activeloopai,8467,654,2025-03-11T15:53:53Z,Apache License 2.0,https://github.com/activeloopai/deeplake
+cog,replicate,8466,590,2025-03-14T17:15:33Z,Apache License 2.0,https://github.com/replicate/cog
+ragas,explodinggradients,8460,866,2025-03-10T17:11:57Z,Apache License 2.0,https://github.com/explodinggradients/ragas
+holehe,megadose,8456,953,2024-09-10T20:24:32Z,GNU General Public License v3.0,https://github.com/megadose/holehe
+CodeGeeX,THUDM,8431,628,2024-08-13T05:59:38Z,Apache License 2.0,https://github.com/THUDM/CodeGeeX
+lutris,lutris,8423,729,2025-03-13T21:21:37Z,GNU General Public License v3.0,https://github.com/lutris/lutris
+darts,unit8co,8419,919,2025-03-14T14:19:38Z,Apache License 2.0,https://github.com/unit8co/darts
+gixy,yandex,8394,416,2024-07-28T20:09:31Z,Other,https://github.com/yandex/gixy
+TRELLIS,microsoft,8378,652,2024-12-27T12:38:06Z,MIT License,https://github.com/microsoft/TRELLIS
+LMFlow,OptimalScale,8375,837,2025-03-14T10:58:05Z,Apache License 2.0,https://github.com/OptimalScale/LMFlow
+optimate,nebuly-ai,8373,637,2024-07-22T02:07:03Z,Apache License 2.0,https://github.com/nebuly-ai/optimate
+vaex,vaexio,8354,598,2024-10-08T16:23:10Z,MIT License,https://github.com/vaexio/vaex
+Wan2.1,Wan-Video,8334,873,2025-03-07T08:08:31Z,Apache License 2.0,https://github.com/Wan-Video/Wan2.1
+posting,darrenburns,8327,142,2025-03-14T11:17:27Z,Apache License 2.0,https://github.com/darrenburns/posting
+Bert-VITS2,fishaudio,8314,1172,2025-03-14T09:40:13Z,GNU Affero General Public License v3.0,https://github.com/fishaudio/Bert-VITS2
+pyTelegramBotAPI,eternnoir,8312,2067,2025-02-15T12:46:01Z,GNU General Public License v2.0,https://github.com/eternnoir/pyTelegramBotAPI
+hallo,fudan-generative-vision,8307,1090,2024-09-14T13:23:02Z,MIT License,https://github.com/fudan-generative-vision/hallo
+TinyLlama,jzhang38,8298,514,2024-05-03T20:21:20Z,Apache License 2.0,https://github.com/jzhang38/TinyLlama
+tianshou,thu-ml,8286,1137,2025-03-14T17:06:44Z,MIT License,https://github.com/thu-ml/tianshou
+easytrader,shidenggui,8258,2723,2024-05-09T07:52:53Z,MIT License,https://github.com/shidenggui/easytrader
+sktime,sktime,8255,1499,2025-03-14T16:44:19Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/sktime/sktime
+pwndbg,pwndbg,8251,945,2025-03-14T09:11:15Z,MIT License,https://github.com/pwndbg/pwndbg
+lm-evaluation-harness,EleutherAI,8244,2194,2025-03-14T17:48:51Z,MIT License,https://github.com/EleutherAI/lm-evaluation-harness
+yewtube,mps-youtube,8240,642,2025-01-05T21:49:55Z,GNU General Public License v3.0,https://github.com/mps-youtube/yewtube
+binance-trade-bot,ccxt,8238,2252,2025-03-12T17:36:21Z,GNU General Public License v3.0,https://github.com/ccxt/binance-trade-bot
+Time-Series-Library,thuml,8229,1309,2025-03-07T02:34:02Z,MIT License,https://github.com/thuml/Time-Series-Library
+trape,jofpin,8227,1306,2024-06-20T19:04:00Z,N/A,https://github.com/jofpin/trape
+XAgent,OpenBMB,8227,872,2024-08-12T06:41:38Z,Apache License 2.0,https://github.com/OpenBMB/XAgent
+metube,alexta69,8220,547,2025-03-07T07:47:18Z,GNU Affero General Public License v3.0,https://github.com/alexta69/metube
+mopidy,mopidy,8220,695,2025-03-07T10:24:28Z,Apache License 2.0,https://github.com/mopidy/mopidy
+imagen-pytorch,lucidrains,8213,780,2024-10-07T13:00:53Z,MIT License,https://github.com/lucidrains/imagen-pytorch
+AlphaPose,MVIG-SJTU,8193,1992,2024-05-13T14:33:34Z,Other,https://github.com/MVIG-SJTU/AlphaPose
+mage-ai,mage-ai,8191,825,2025-03-14T08:14:50Z,Apache License 2.0,https://github.com/mage-ai/mage-ai
+django-debug-toolbar,django-commons,8188,1056,2025-03-10T21:13:27Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/django-commons/django-debug-toolbar
+csm,SesameAILabs,8184,453,2025-03-14T16:50:46Z,Apache License 2.0,https://github.com/SesameAILabs/csm
+gitfiti,gelstudios,8176,1124,2024-10-28T04:54:08Z,MIT License,https://github.com/gelstudios/gitfiti
+trax,google,8174,824,2025-02-07T17:26:26Z,Apache License 2.0,https://github.com/google/trax
+platformio-core,platformio,8169,805,2025-03-11T20:15:56Z,Apache License 2.0,https://github.com/platformio/platformio-core
+bilingual_book_maker,yihong0618,8167,1137,2025-03-12T03:05:10Z,MIT License,https://github.com/yihong0618/bilingual_book_maker
+pdm,pdm-project,8163,429,2025-03-14T07:55:53Z,MIT License,https://github.com/pdm-project/pdm
+bbot,blacklanternsecurity,8154,626,2025-03-14T17:39:32Z,GNU General Public License v3.0,https://github.com/blacklanternsecurity/bbot
+graphene,graphql-python,8153,828,2024-11-09T20:43:58Z,MIT License,https://github.com/graphql-python/graphene
+pwnagotchi,evilsocket,8152,1177,2025-02-08T13:28:13Z,Other,https://github.com/evilsocket/pwnagotchi
+docker-stacks,jupyter,8142,2992,2025-03-14T16:02:32Z,Other,https://github.com/jupyter/docker-stacks
+frappe,frappe,8124,3700,2025-03-14T17:58:25Z,MIT License,https://github.com/frappe/frappe
+readthedocs.org,readthedocs,8121,3609,2025-03-13T21:14:25Z,MIT License,https://github.com/readthedocs/readthedocs.org
+krita-ai-diffusion,Acly,8118,418,2025-03-13T09:30:25Z,GNU General Public License v3.0,https://github.com/Acly/krita-ai-diffusion
+BayesianOptimization,bayesian-optimization,8114,1561,2025-03-13T09:11:20Z,MIT License,https://github.com/bayesian-optimization/BayesianOptimization
+bypy,houtianze,8109,1408,2025-02-01T06:58:27Z,MIT License,https://github.com/houtianze/bypy
+clone-voice,jianchang512,8102,843,2024-12-07T08:59:26Z,Other,https://github.com/jianchang512/clone-voice
+visidata,saulpw,8093,289,2025-03-08T04:28:25Z,GNU General Public License v3.0,https://github.com/saulpw/visidata
+pysc2,google-deepmind,8093,1158,2024-07-23T16:54:42Z,Apache License 2.0,https://github.com/google-deepmind/pysc2
+jc,kellyjonbrazil,8091,218,2024-12-21T00:31:44Z,MIT License,https://github.com/kellyjonbrazil/jc
+BlenderGIS,domlysz,8076,1388,2024-06-06T13:42:41Z,GNU General Public License v3.0,https://github.com/domlysz/BlenderGIS
+imaginAIry,brycedrennan,8073,463,2024-09-22T02:38:06Z,MIT License,https://github.com/brycedrennan/imaginAIry
+google-api-python-client,googleapis,8053,2448,2025-03-14T13:13:45Z,Apache License 2.0,https://github.com/googleapis/google-api-python-client
+pysheeet,crazyguitar,8051,1209,2025-02-08T08:14:54Z,MIT License,https://github.com/crazyguitar/pysheeet
+KeymouseGo,taojy123,8042,1142,2025-03-14T07:28:56Z,GNU General Public License v2.0,https://github.com/taojy123/KeymouseGo
+ASRT_SpeechRecognition,nl8590687,8022,1909,2024-09-26T15:28:29Z,GNU General Public License v3.0,https://github.com/nl8590687/ASRT_SpeechRecognition
+python-small-examples,jackzhenguo,8020,1817,2024-06-26T16:37:35Z,N/A,https://github.com/jackzhenguo/python-small-examples
+elastalert,Yelp,8011,1735,2024-08-07T06:30:10Z,Apache License 2.0,https://github.com/Yelp/elastalert
+PaddleGAN,PaddlePaddle,7993,1250,2024-07-03T15:05:24Z,Apache License 2.0,https://github.com/PaddlePaddle/PaddleGAN
+MoviePilot,jxxghp,7987,961,2025-03-14T09:22:23Z,GNU General Public License v3.0,https://github.com/jxxghp/MoviePilot
+Machine-Learning-Collection,aladdinpersson,7979,2745,2024-08-17T12:31:20Z,MIT License,https://github.com/aladdinpersson/Machine-Learning-Collection
+pytorch-cnn-visualizations,utkuozbulak,7974,1490,2025-01-01T10:31:10Z,MIT License,https://github.com/utkuozbulak/pytorch-cnn-visualizations
+docopt,docopt,7969,561,2024-05-22T11:23:25Z,MIT License,https://github.com/docopt/docopt
+reactpy,reactive-python,7959,325,2025-03-12T21:31:11Z,MIT License,https://github.com/reactive-python/reactpy
+python-dotenv,theskumar,7956,446,2025-03-09T18:14:10Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/theskumar/python-dotenv
+dream-textures,carson-katri,7953,434,2024-08-26T02:23:11Z,GNU General Public License v3.0,https://github.com/carson-katri/dream-textures
+jukebox,openai,7948,1445,2024-06-19T05:14:24Z,Other,https://github.com/openai/jukebox
+jupyterhub,jupyterhub,7944,2053,2025-03-14T10:32:48Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/jupyterhub/jupyterhub
+InfoSpider,kangvcar,7941,1490,2024-08-20T16:26:26Z,GNU General Public License v3.0,https://github.com/kangvcar/InfoSpider
+DiffSynth-Studio,modelscope,7938,709,2025-03-14T10:21:24Z,Apache License 2.0,https://github.com/modelscope/DiffSynth-Studio
+PentestGPT,GreyDGL,7935,985,2024-11-09T06:57:45Z,MIT License,https://github.com/GreyDGL/PentestGPT
+tensorboardX,lanpa,7918,864,2025-01-15T18:30:46Z,MIT License,https://github.com/lanpa/tensorboardX
+sygil-webui,Sygil-Dev,7893,880,2024-08-14T15:04:35Z,GNU Affero General Public License v3.0,https://github.com/Sygil-Dev/sygil-webui
+objection,sensepost,7889,879,2024-09-13T12:21:03Z,GNU General Public License v3.0,https://github.com/sensepost/objection
+stock,myhhub,7877,1550,2025-03-12T03:40:49Z,Apache License 2.0,https://github.com/myhhub/stock
+pip-tools,jazzband,7860,619,2025-03-06T04:35:23Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/jazzband/pip-tools
+django-ninja,vitalik,7859,472,2025-03-14T16:11:35Z,MIT License,https://github.com/vitalik/django-ninja
+bisheng,dataelement,7836,1317,2025-03-14T13:34:17Z,Apache License 2.0,https://github.com/dataelement/bisheng
+VALL-E-X,Plachtaa,7825,776,2024-02-11T15:36:45Z,MIT License,https://github.com/Plachtaa/VALL-E-X
+angr,angr,7821,1098,2025-03-14T17:15:49Z,"BSD 2-Clause ""Simplified"" License",https://github.com/angr/angr
+moto,getmoto,7805,2092,2025-03-13T21:53:26Z,Apache License 2.0,https://github.com/getmoto/moto
+icloud_photos_downloader,icloud-photos-downloader,7805,600,2025-03-09T21:00:11Z,MIT License,https://github.com/icloud-photos-downloader/icloud_photos_downloader
+PyTorch_Tutorial,TingsongYu,7798,1760,2025-01-04T11:23:32Z,N/A,https://github.com/TingsongYu/PyTorch_Tutorial
+moshi,kyutai-labs,7795,633,2025-03-13T09:55:01Z,Apache License 2.0,https://github.com/kyutai-labs/moshi
+Github-Ranking,EvanLi,7791,506,2025-03-14T04:06:50Z,MIT License,https://github.com/EvanLi/Github-Ranking
+gh-proxy,hunshcn,7790,2066,2024-08-08T08:09:42Z,MIT License,https://github.com/hunshcn/gh-proxy
+electrum,spesmilo,7782,3178,2025-03-14T17:40:15Z,MIT License,https://github.com/spesmilo/electrum
+IF,deep-floyd,7767,507,2024-04-14T05:26:35Z,Other,https://github.com/deep-floyd/IF
+auto-sklearn,automl,7766,1295,2025-01-22T14:40:43Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/automl/auto-sklearn
+FastSAM,CASIA-IVA-Lab,7762,722,2024-07-30T13:35:06Z,GNU Affero General Public License v3.0,https://github.com/CASIA-IVA-Lab/FastSAM
+PaLM-rlhf-pytorch,lucidrains,7762,677,2025-02-15T18:21:37Z,MIT License,https://github.com/lucidrains/PaLM-rlhf-pytorch
+hypothesis,HypothesisWorks,7746,595,2025-03-13T18:07:18Z,Other,https://github.com/HypothesisWorks/hypothesis
+ASCII-generator,vietnh1009,7737,597,2024-11-22T00:04:58Z,MIT License,https://github.com/vietnh1009/ASCII-generator
+EmotiVoice,netease-youdao,7731,661,2024-08-13T10:23:52Z,Apache License 2.0,https://github.com/netease-youdao/EmotiVoice
+PyMySQL,PyMySQL,7730,1431,2025-01-29T09:06:45Z,MIT License,https://github.com/PyMySQL/PyMySQL
+oumi,oumi-ai,7718,549,2025-03-14T18:06:23Z,Apache License 2.0,https://github.com/oumi-ai/oumi
+DeepCTR,shenweichen,7715,2229,2024-08-09T12:11:01Z,Apache License 2.0,https://github.com/shenweichen/DeepCTR
+linkding,sissbruecker,7714,367,2025-03-09T22:12:08Z,MIT License,https://github.com/sissbruecker/linkding
+SpaceshipGenerator,a1studmuffin,7706,437,2024-05-25T16:11:50Z,Other,https://github.com/a1studmuffin/SpaceshipGenerator
+IC-Light,lllyasviel,7684,469,2025-02-20T15:52:35Z,Apache License 2.0,https://github.com/lllyasviel/IC-Light
+financial-machine-learning,firmai,7675,1307,2025-01-03T01:27:50Z,N/A,https://github.com/firmai/financial-machine-learning
+bunkerweb,bunkerity,7673,430,2025-03-14T16:36:05Z,GNU Affero General Public License v3.0,https://github.com/bunkerity/bunkerweb
+diff-match-patch,google,7670,1130,2024-05-22T22:13:22Z,Apache License 2.0,https://github.com/google/diff-match-patch
+ajenti,ajenti,7669,858,2025-03-03T08:13:39Z,MIT License,https://github.com/ajenti/ajenti
+fast-stable-diffusion,TheLastBen,7663,1326,2025-03-12T02:24:02Z,MIT License,https://github.com/TheLastBen/fast-stable-diffusion
+umap,lmcinnes,7654,822,2025-02-28T21:30:46Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/lmcinnes/umap
+edge-tts,rany2,7649,727,2025-02-27T19:10:43Z,GNU Lesser General Public License v3.0,https://github.com/rany2/edge-tts
+CodeGeeX2,THUDM,7638,531,2024-07-10T12:34:55Z,Apache License 2.0,https://github.com/THUDM/CodeGeeX2
+edx-platform,openedx,7635,3970,2025-03-14T14:53:56Z,GNU Affero General Public License v3.0,https://github.com/openedx/edx-platform
+mae,facebookresearch,7630,1250,2024-07-23T18:15:40Z,Other,https://github.com/facebookresearch/mae
+GroundingDINO,IDEA-Research,7625,773,2024-08-12T08:52:02Z,Apache License 2.0,https://github.com/IDEA-Research/GroundingDINO
+helium,mherrmann,7612,462,2025-02-20T16:05:51Z,MIT License,https://github.com/mherrmann/helium
+gitsome,donnemartin,7610,442,2024-02-08T10:27:14Z,Other,https://github.com/donnemartin/gitsome
+SciencePlots,garrettj403,7601,730,2025-02-21T23:23:11Z,MIT License,https://github.com/garrettj403/SciencePlots
+moondream,vikhyat,7595,587,2025-02-25T01:14:39Z,Apache License 2.0,https://github.com/vikhyat/moondream
+ultisnips,SirVer,7590,688,2025-03-09T19:54:49Z,GNU General Public License v3.0,https://github.com/SirVer/ultisnips
+aws-devops-zero-to-hero,iam-veeramalla,7581,10650,2025-02-03T06:11:30Z,Apache License 2.0,https://github.com/iam-veeramalla/aws-devops-zero-to-hero
+awesome-cheatsheet,detailyang,7571,1027,2024-08-08T14:55:13Z,MIT License,https://github.com/detailyang/awesome-cheatsheet
+MachineLearning_Python,lawlite19,7569,2465,2024-05-20T17:21:57Z,MIT License,https://github.com/lawlite19/MachineLearning_Python
+WeasyPrint,Kozea,7564,711,2025-03-11T10:04:34Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/Kozea/WeasyPrint
+modelscope,modelscope,7547,772,2025-03-14T08:19:26Z,Apache License 2.0,https://github.com/modelscope/modelscope
+real-url,wbt5,7542,1554,2024-06-07T01:36:57Z,GNU General Public License v2.0,https://github.com/wbt5/real-url
+GPT2-Chinese,Morizeyao,7537,1703,2024-04-25T09:14:25Z,MIT License,https://github.com/Morizeyao/GPT2-Chinese
+Omost,lllyasviel,7518,430,2024-07-26T21:10:06Z,Apache License 2.0,https://github.com/lllyasviel/Omost
+skypilot,skypilot-org,7516,591,2025-03-14T08:40:04Z,Apache License 2.0,https://github.com/skypilot-org/skypilot
+ipex-llm,intel,7495,1329,2025-03-14T11:04:10Z,Apache License 2.0,https://github.com/intel/ipex-llm
+Jenkins-Zero-To-Hero,iam-veeramalla,7480,14335,2025-03-12T09:03:13Z,MIT License,https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero
+llama-stack,meta-llama,7473,925,2025-03-14T17:03:49Z,MIT License,https://github.com/meta-llama/llama-stack
+BentoML,bentoml,7470,822,2025-03-14T13:08:14Z,Apache License 2.0,https://github.com/bentoml/BentoML
+GPTCache,zilliztech,7451,530,2024-09-18T02:05:21Z,MIT License,https://github.com/zilliztech/GPTCache
+librosa,librosa,7449,979,2025-03-13T01:49:04Z,ISC License,https://github.com/librosa/librosa
+GetQzonehistory,LibraHp,7449,526,2024-12-19T13:40:41Z,GNU General Public License v3.0,https://github.com/LibraHp/GetQzonehistory
+latexify_py,google,7443,394,2025-02-13T01:27:01Z,Apache License 2.0,https://github.com/google/latexify_py
+checkov,bridgecrewio,7417,1162,2025-03-14T07:38:36Z,Apache License 2.0,https://github.com/bridgecrewio/checkov
+get_subscribe,ermaozi,7414,628,2025-03-10T02:15:33Z,GNU General Public License v3.0,https://github.com/ermaozi/get_subscribe
+cheatsheets,matplotlib,7411,903,2025-02-25T09:36:55Z,"BSD 2-Clause ""Simplified"" License",https://github.com/matplotlib/cheatsheets
+pdfplumber,jsvine,7405,710,2025-02-11T03:09:32Z,MIT License,https://github.com/jsvine/pdfplumber
+The-Grand-Complete-Data-Science-Materials,krishnaik06,7404,3843,2024-08-04T07:14:11Z,GNU General Public License v2.0,https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials
+Dango-Translator,PantsuDango,7402,533,2025-03-02T14:20:01Z,GNU Lesser General Public License v2.1,https://github.com/PantsuDango/Dango-Translator
+stanza,stanfordnlp,7396,901,2025-03-13T07:06:46Z,Other,https://github.com/stanfordnlp/stanza
+starcoder,bigcode-project,7390,524,2024-02-27T02:05:57Z,Apache License 2.0,https://github.com/bigcode-project/starcoder
+generative-models,wiseodd,7387,2036,2024-03-24T20:38:46Z,The Unlicense,https://github.com/wiseodd/generative-models
+AzurLaneAutoScript,LmeSzinc,7386,872,2025-03-13T10:18:47Z,GNU General Public License v3.0,https://github.com/LmeSzinc/AzurLaneAutoScript
+featuretools,alteryx,7382,890,2025-03-03T19:03:52Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/alteryx/featuretools
+Depth-Anything,LiheYoung,7379,561,2024-07-17T10:46:05Z,Apache License 2.0,https://github.com/LiheYoung/Depth-Anything
+PyTorch-YOLOv3,eriklindernoren,7376,2625,2024-11-17T15:24:57Z,GNU General Public License v3.0,https://github.com/eriklindernoren/PyTorch-YOLOv3
+hyperopt,hyperopt,7363,1059,2025-02-04T00:03:50Z,Other,https://github.com/hyperopt/hyperopt
+gitingest,cyclotruc,7347,581,2025-03-14T07:39:28Z,MIT License,https://github.com/cyclotruc/gitingest
+dowhy,py-why,7345,946,2025-03-10T17:02:18Z,MIT License,https://github.com/py-why/dowhy
+TikTokDownload,Johnserf-Seed,7322,1347,2024-06-28T10:53:42Z,MIT License,https://github.com/Johnserf-Seed/TikTokDownload
+Auto_Bangumi,EstrellaXD,7313,377,2024-09-26T03:46:07Z,MIT License,https://github.com/EstrellaXD/Auto_Bangumi
+dotbot,anishathalye,7312,298,2025-02-22T16:58:49Z,MIT License,https://github.com/anishathalye/dotbot
+gef,hugsy,7312,762,2025-02-24T00:50:04Z,MIT License,https://github.com/hugsy/gef
+sqlglot,tobymao,7309,801,2025-03-13T18:40:43Z,MIT License,https://github.com/tobymao/sqlglot
+dailycheckin,Sitoi,7290,1266,2025-01-31T01:56:03Z,MIT License,https://github.com/Sitoi/dailycheckin
+linux-insides-zh,hust-open-atom-club,7289,1203,2024-12-19T08:17:58Z,Other,https://github.com/hust-open-atom-club/linux-insides-zh
+maple-font,subframe7536,7270,125,2025-03-13T02:59:30Z,SIL Open Font License 1.1,https://github.com/subframe7536/maple-font
+programming-talks,hellerve,7269,504,2025-02-15T20:11:14Z,N/A,https://github.com/hellerve/programming-talks
+aws-shell,awslabs,7258,778,2024-12-16T22:48:37Z,Apache License 2.0,https://github.com/awslabs/aws-shell
+LWM,LargeWorldModel,7250,557,2024-10-19T03:27:38Z,Apache License 2.0,https://github.com/LargeWorldModel/LWM
+BasicSR,XPixelGroup,7247,1250,2024-07-21T04:16:22Z,Apache License 2.0,https://github.com/XPixelGroup/BasicSR
+PyGithub,PyGithub,7241,1818,2025-03-03T14:32:57Z,GNU Lesser General Public License v3.0,https://github.com/PyGithub/PyGithub
+InternVL,OpenGVLab,7239,559,2025-02-26T08:05:24Z,MIT License,https://github.com/OpenGVLab/InternVL
+Movie_Data_Capture,mvdctop,7235,1397,2025-03-13T14:31:07Z,GNU General Public License v3.0,https://github.com/mvdctop/Movie_Data_Capture
+face-alignment,1adrianb,7232,1357,2024-08-30T14:19:26Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/1adrianb/face-alignment
+gspread,burnash,7224,952,2025-02-27T18:15:08Z,MIT License,https://github.com/burnash/gspread
+asyncpg,MagicStack,7205,414,2024-12-18T21:52:07Z,Apache License 2.0,https://github.com/MagicStack/asyncpg
+bup,bup,7205,421,2025-03-03T19:06:17Z,Other,https://github.com/bup/bup
+lbry-sdk,lbryio,7199,491,2024-08-19T07:49:41Z,MIT License,https://github.com/lbryio/lbry-sdk
+librephotos,LibrePhotos,7199,323,2025-03-07T01:28:48Z,MIT License,https://github.com/LibrePhotos/librephotos
+autograd,HIPS,7190,912,2025-03-10T19:17:12Z,MIT License,https://github.com/HIPS/autograd
+records,kennethreitz,7188,575,2024-07-09T11:26:43Z,ISC License,https://github.com/kennethreitz/records
+pr-agent,qodo-ai,7187,743,2025-03-14T10:07:47Z,Apache License 2.0,https://github.com/qodo-ai/pr-agent
+tenacity,jd,7186,291,2025-03-05T08:36:46Z,Apache License 2.0,https://github.com/jd/tenacity
+rectg,jackhawks,7179,380,2025-02-20T11:31:23Z,Apache License 2.0,https://github.com/jackhawks/rectg
+Chinese-LLaMA-Alpaca-2,ymcui,7158,575,2024-09-23T02:52:19Z,Apache License 2.0,https://github.com/ymcui/Chinese-LLaMA-Alpaca-2
+patroni,patroni,7153,890,2025-03-14T15:31:46Z,MIT License,https://github.com/patroni/patroni
+GOT-OCR2.0,Ucas-HaoranWei,7151,627,2025-02-10T12:13:00Z,N/A,https://github.com/Ucas-HaoranWei/GOT-OCR2.0
+ipwndfu,axi0mX,7143,1703,2024-02-21T04:10:19Z,GNU General Public License v3.0,https://github.com/axi0mX/ipwndfu
+pydantic-ai,pydantic,7127,590,2025-03-14T13:56:32Z,MIT License,https://github.com/pydantic/pydantic-ai
+gpt-neox,EleutherAI,7126,1046,2025-03-12T10:28:11Z,Apache License 2.0,https://github.com/EleutherAI/gpt-neox
+mlx-examples,ml-explore,7125,1010,2025-03-14T14:28:56Z,MIT License,https://github.com/ml-explore/mlx-examples
+yowsup,tgalal,7113,2226,2024-08-08T20:50:41Z,GNU General Public License v3.0,https://github.com/tgalal/yowsup
+backgroundremover,nadermx,7112,596,2024-12-26T17:44:27Z,MIT License,https://github.com/nadermx/backgroundremover
+marshmallow,marshmallow-code,7109,629,2025-03-05T08:24:07Z,MIT License,https://github.com/marshmallow-code/marshmallow
+pdfGPT,bhaskatripathi,7080,850,2025-03-03T13:17:59Z,MIT License,https://github.com/bhaskatripathi/pdfGPT
+pipreqs,bndr,7076,407,2024-07-06T13:32:00Z,Apache License 2.0,https://github.com/bndr/pipreqs
+paper-qa,Future-House,7066,694,2025-03-13T22:17:47Z,Apache License 2.0,https://github.com/Future-House/paper-qa
+folium,python-visualization,7057,2234,2025-03-13T06:01:53Z,Other,https://github.com/python-visualization/folium
+ffsubsync,smacke,7050,293,2025-02-19T04:07:11Z,MIT License,https://github.com/smacke/ffsubsync
+autocut,mli,7048,726,2024-10-05T15:59:47Z,Apache License 2.0,https://github.com/mli/autocut
+machine-learning-course,instillai,7036,1258,2024-11-27T03:47:57Z,N/A,https://github.com/instillai/machine-learning-course
+sh,amoffat,7036,502,2025-02-24T07:16:10Z,MIT License,https://github.com/amoffat/sh
+PDF-Extract-Kit,opendatalab,7035,478,2025-01-03T02:00:20Z,GNU Affero General Public License v3.0,https://github.com/opendatalab/PDF-Extract-Kit
+multi-v2ray,Jrohy,7032,2434,2024-02-24T06:41:05Z,GNU General Public License v3.0,https://github.com/Jrohy/multi-v2ray
+boxmot,mikel-brostrom,7028,1762,2025-03-13T11:36:11Z,GNU Affero General Public License v3.0,https://github.com/mikel-brostrom/boxmot
+dumb-init,Yelp,7022,350,2025-02-17T20:10:13Z,MIT License,https://github.com/Yelp/dumb-init
+tinydb,msiemens,7019,558,2025-03-06T04:13:38Z,MIT License,https://github.com/msiemens/tinydb
+ScoutSuite,nccgroup,7012,1082,2024-11-19T20:53:05Z,GNU General Public License v2.0,https://github.com/nccgroup/ScoutSuite
+inference,xorbitsai,6997,571,2025-03-14T06:50:46Z,Apache License 2.0,https://github.com/xorbitsai/inference
+python,kubernetes-client,6990,3318,2025-02-18T21:08:00Z,Apache License 2.0,https://github.com/kubernetes-client/python
+PyTorch-VAE,AntixK,6977,1107,2024-06-13T04:24:42Z,Apache License 2.0,https://github.com/AntixK/PyTorch-VAE
+3d-photo-inpainting,vt-vl-lab,6968,1124,2024-08-30T23:48:56Z,Other,https://github.com/vt-vl-lab/3d-photo-inpainting
+BackgroundMattingV2,PeterL1n,6959,952,2024-06-19T12:28:16Z,MIT License,https://github.com/PeterL1n/BackgroundMattingV2
+DiT,facebookresearch,6952,624,2024-05-31T13:04:15Z,Other,https://github.com/facebookresearch/DiT
+wiseflow,TeamWiseFlow,6949,1250,2025-03-09T13:40:26Z,Apache License 2.0,https://github.com/TeamWiseFlow/wiseflow
+uiautomator2,openatx,6946,1448,2025-03-13T06:58:13Z,MIT License,https://github.com/openatx/uiautomator2
+docker-py,docker,6943,1680,2025-01-17T17:32:15Z,Apache License 2.0,https://github.com/docker/docker-py
+cryptography,pyca,6940,1583,2025-03-14T15:02:25Z,Other,https://github.com/pyca/cryptography
+howmanypeoplearearound,schollz,6939,383,2024-08-17T14:14:41Z,MIT License,https://github.com/schollz/howmanypeoplearearound
+XHS-Downloader,JoeanAmier,6939,1004,2025-03-14T13:36:19Z,GNU General Public License v3.0,https://github.com/JoeanAmier/XHS-Downloader
+imbalanced-learn,scikit-learn-contrib,6938,1297,2025-03-03T17:31:45Z,MIT License,https://github.com/scikit-learn-contrib/imbalanced-learn
+shuyuan,shidahuilang,6934,415,2025-03-13T10:37:04Z,GNU General Public License v3.0,https://github.com/shidahuilang/shuyuan
+android-foss,offa,6928,318,2025-03-11T16:05:58Z,GNU General Public License v3.0,https://github.com/offa/android-foss
+Verba,weaviate,6927,759,2025-02-27T10:38:02Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/weaviate/Verba
+models,PaddlePaddle,6924,2895,2025-01-15T17:54:36Z,Apache License 2.0,https://github.com/PaddlePaddle/models
+ollama-python,ollama,6923,609,2025-02-18T23:48:57Z,MIT License,https://github.com/ollama/ollama-python
+Upsonic,Upsonic,6919,654,2025-03-14T12:24:43Z,MIT License,https://github.com/Upsonic/Upsonic
+sphinx,sphinx-doc,6914,2181,2025-03-14T04:20:04Z,Other,https://github.com/sphinx-doc/sphinx
+pyinstrument,joerick,6914,244,2025-03-03T22:46:15Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/joerick/pyinstrument
+video-retalking,OpenTalker,6914,1026,2024-08-05T05:59:59Z,Apache License 2.0,https://github.com/OpenTalker/video-retalking
+gpt-migrate,joshpxyne,6912,494,2024-09-17T23:13:51Z,MIT License,https://github.com/joshpxyne/gpt-migrate
+Hiddify-Manager,hiddify,6911,796,2025-03-05T12:14:19Z,GNU General Public License v3.0,https://github.com/hiddify/Hiddify-Manager
+stock,pythonstock,6909,2262,2025-03-04T15:42:56Z,Apache License 2.0,https://github.com/pythonstock/stock
+EZFN-Lobbybot,EZFNDEV,6882,428,2024-05-04T20:52:08Z,N/A,https://github.com/EZFNDEV/EZFN-Lobbybot
+flask-restful,flask-restful,6879,1042,2024-07-19T22:46:03Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/flask-restful/flask-restful
+hug,hugapi,6877,387,2024-07-04T14:37:30Z,MIT License,https://github.com/hugapi/hug
+Bottles,bottlesdevs,6876,291,2025-03-10T22:54:35Z,GNU General Public License v3.0,https://github.com/bottlesdevs/Bottles
+DjangoBlog,liangliangyy,6874,2755,2025-03-10T15:12:45Z,MIT License,https://github.com/liangliangyy/DjangoBlog
+Hunyuan3D-2,Tencent,6873,540,2025-02-24T15:31:46Z,Other,https://github.com/Tencent/Hunyuan3D-2
+PyQt,PyQt5,6844,1986,2024-05-30T13:16:45Z,GNU Lesser General Public License v2.1,https://github.com/PyQt5/PyQt
+OpenNMT-py,OpenNMT,6841,2254,2025-03-06T03:47:21Z,MIT License,https://github.com/OpenNMT/OpenNMT-py
+SlowFast,facebookresearch,6832,1243,2024-11-26T11:06:14Z,Apache License 2.0,https://github.com/facebookresearch/SlowFast
+streaming-llm,mit-han-lab,6830,377,2024-07-11T08:14:43Z,MIT License,https://github.com/mit-han-lab/streaming-llm
+DeepPavlov,deeppavlov,6824,1158,2025-03-11T12:07:56Z,Apache License 2.0,https://github.com/deeppavlov/DeepPavlov
+bandit,PyCQA,6821,627,2025-03-03T14:52:51Z,Apache License 2.0,https://github.com/PyCQA/bandit
+InternLM,InternLM,6815,481,2025-02-07T04:14:52Z,Apache License 2.0,https://github.com/InternLM/InternLM
+video-subtitle-extractor,YaoFANGUK,6815,734,2025-02-25T11:13:53Z,Apache License 2.0,https://github.com/YaoFANGUK/video-subtitle-extractor
+RedditVideoMakerBot,elebumm,6812,1916,2025-03-11T10:29:56Z,GNU General Public License v3.0,https://github.com/elebumm/RedditVideoMakerBot
+ChatTTS-ui,jianchang512,6807,817,2024-12-09T12:22:35Z,Other,https://github.com/jianchang512/ChatTTS-ui
+maltrail,stamparm,6803,1123,2025-03-14T16:11:29Z,MIT License,https://github.com/stamparm/maltrail
+bitsandbytes,bitsandbytes-foundation,6794,676,2025-03-14T15:46:40Z,MIT License,https://github.com/bitsandbytes-foundation/bitsandbytes
+watchdog,gorakhargosh,6792,709,2025-02-10T16:53:56Z,Apache License 2.0,https://github.com/gorakhargosh/watchdog
+azure-search-openai-demo,Azure-Samples,6790,4592,2025-03-10T12:57:06Z,MIT License,https://github.com/Azure-Samples/azure-search-openai-demo
+Solaar,pwr-Solaar,6789,431,2025-03-03T19:11:09Z,GNU General Public License v2.0,https://github.com/pwr-Solaar/Solaar
+faust,robinhood,6774,535,2024-07-27T10:27:41Z,Other,https://github.com/robinhood/faust
+jupytext,mwouts,6767,399,2025-03-13T22:22:05Z,MIT License,https://github.com/mwouts/jupytext
+monkey,guardicore,6752,795,2025-02-28T15:41:56Z,GNU General Public License v3.0,https://github.com/guardicore/monkey
+wifite2,derv82,6739,1386,2024-08-20T12:34:38Z,GNU General Public License v2.0,https://github.com/derv82/wifite2
+pix2pixHD,NVIDIA,6734,1408,2024-11-04T18:13:20Z,Other,https://github.com/NVIDIA/pix2pixHD
+conda,conda,6727,1750,2025-03-13T20:41:35Z,Other,https://github.com/conda/conda
+eve,pyeve,6719,748,2025-03-06T01:25:45Z,Other,https://github.com/pyeve/eve
+werkzeug,pallets,6718,1739,2025-02-28T20:57:31Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://github.com/pallets/werkzeug
+DeepLearningFlappyBird,yenchenlin,6710,2053,2024-08-07T16:58:16Z,MIT License,https://github.com/yenchenlin/DeepLearningFlappyBird
+wukong-robot,wzpan,6700,1378,2024-10-25T08:30:25Z,MIT License,https://github.com/wzpan/wukong-robot
+March7thAssistant,moesnow,6691,176,2025-03-12T20:11:25Z,GNU General Public License v3.0,https://github.com/moesnow/March7thAssistant
+PyMuPDF,pymupdf,6690,577,2025-03-14T17:00:51Z,GNU Affero General Public License v3.0,https://github.com/pymupdf/PyMuPDF
+orjson,ijl,6681,233,2025-03-14T14:40:59Z,Apache License 2.0,https://github.com/ijl/orjson
+lamda,firerpa,6678,923,2025-03-08T13:38:59Z,N/A,https://github.com/firerpa/lamda
+autoscraper,alirezamika,6677,699,2024-10-12T09:29:22Z,MIT License,https://github.com/alirezamika/autoscraper
+dino,facebookresearch,6675,941,2024-07-03T16:21:59Z,Apache License 2.0,https://github.com/facebookresearch/dino
+point-e,openai,6661,777,2024-07-04T19:05:34Z,MIT License,https://github.com/openai/point-e
+Track-Anything,gaomingqi,6652,487,2024-05-31T01:13:00Z,MIT License,https://github.com/gaomingqi/Track-Anything
+buku,jarun,6651,297,2025-02-20T23:33:25Z,GNU General Public License v3.0,https://github.com/jarun/buku
