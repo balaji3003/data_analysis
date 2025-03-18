@@ -4,7 +4,9 @@ import json
 import re
 import shutil
 import pandas as pd
+import seaborn as sns
 import matplotlib.pyplot as plt
+
 from collections import defaultdict
 
 # Function to get a valid GitHub repository URL
@@ -106,6 +108,7 @@ def extract_git_history(repo_name):
     return json_file, json_dir
 
 # Function to analyze commit history
+# Function to analyze commit history
 def analyze_commit_history(json_file, repo_name):
     with open(json_file, "r", encoding="utf-8") as file:
         git_data = json.load(file)
@@ -114,9 +117,6 @@ def analyze_commit_history(json_file, repo_name):
         {"commit_hash": commit["commit_hash"], "author": commit["author"]["name"], "date": commit["date"], "message": commit["message"]}
         for commit in git_data
     ])
-
-    print("\n--- Recent Commits ---")
-    print(df_commits.head(10))
 
     df_commits["date"] = pd.to_datetime(df_commits["date"], utc=True, errors="coerce")
     df_commits = df_commits.dropna(subset=["date"])
@@ -127,14 +127,7 @@ def analyze_commit_history(json_file, repo_name):
 
     save_analysis_results(repo_name, "commit_frequency.json", commit_frequency_dict)
 
-    # Plot Commit Frequency
-    plt.figure(figsize=(10, 5))
-    plt.plot(commit_frequency, marker='o', linestyle='-')
-    plt.title("Commit Frequency Over Time (Last 10 Years)")
-    plt.ylabel("Commits per Week")
-    plt.xlabel("Year")
-    plt.grid()
-    
+    return commit_frequency
 
 # Function to analyze most changed files (Code Churn)
 def analyze_code_churn(json_file, repo_name):
@@ -150,21 +143,11 @@ def analyze_code_churn(json_file, repo_name):
     churn_data = dict(file_churn)
     save_analysis_results(repo_name, "code_churn.json", churn_data)
 
-    # Convert to DataFrame and sort
     df_churn = pd.DataFrame.from_dict(churn_data, orient="index")
     df_churn["total_changes"] = df_churn["added"] + df_churn["deleted"]
     df_churn = df_churn.sort_values(by="total_changes", ascending=False).head(10)
 
-    # Plot Code Churn
- 
-    df_churn[["added", "deleted"]].plot(kind="bar", stacked=True, figsize=(10, 5))
-    plt.title("Top 10 Most Changed Files (Last 10 Years)")
-    plt.ylabel("Lines Changed")
-    plt.xlabel("File Name")
-    plt.xticks(rotation=45, ha="right")
-    plt.legend(["Added", "Deleted"])
-    plt.grid()
-    
+    return df_churn
 
 # Function to analyze bug-prone files
 def analyze_bug_prone_files(json_file, repo_name):
@@ -179,19 +162,10 @@ def analyze_bug_prone_files(json_file, repo_name):
 
     save_analysis_results(repo_name, "bug_prone_files.json", bug_fixes)
 
-    # Convert to DataFrame and sort
     df_bugs = pd.DataFrame.from_dict(bug_fixes, orient="index", columns=["bug_fixes"])
     df_bugs = df_bugs.sort_values(by="bug_fixes", ascending=False).head(10)
 
-    # Plot Bug-Prone Files
-   
-    df_bugs.plot(kind="bar", legend=False)
-    plt.title("Top 10 Bug-Prone Files (Last 10 Years)")
-    plt.ylabel("Bug Fixes")
-    plt.xlabel("File Name")
-    plt.xticks(rotation=45, ha="right")
-    plt.grid()
-
+    return df_bugs
 
 # Function to analyze top contributors
 def analyze_top_contributors(json_file, repo_name):
@@ -204,18 +178,50 @@ def analyze_top_contributors(json_file, repo_name):
 
     save_analysis_results(repo_name, "top_contributors.json", author_commits)
 
-    # Convert to DataFrame and sort
     df_contributors = pd.DataFrame.from_dict(author_commits, orient="index", columns=["commit_count"])
     df_contributors = df_contributors.sort_values(by="commit_count", ascending=False).head(10)
 
-    # Plot Top Contributors
-    
-    df_contributors.plot(kind="bar", legend=False)
-    plt.title("Top 10 Contributors (Last 10 Years)")
-    plt.ylabel("Commit Count")
-    plt.xlabel("Contributor")
-    plt.xticks(rotation=45, ha="right")
-    plt.grid()
+    return df_contributors
+
+# Function to plot all graphs at once
+def plot_all_graphs(commit_frequency, df_churn, df_bugs, df_contributors):
+    fig, axes = plt.subplots(2, 2, figsize=(15, 10))
+
+    # Commit Frequency
+    sns.lineplot(ax=axes[0, 0], x=commit_frequency.index, y=commit_frequency.values, marker='o')
+    axes[0, 0].set_title("Commit Frequency Over Time (Last 10 Years)")
+    axes[0, 0].set_ylabel("Commits per Week")
+    axes[0, 0].set_xlabel("Year")
+    axes[0, 0].grid()
+
+    # Code Churn
+    df_churn_melted = df_churn.reset_index().melt(id_vars="index", value_vars=["added", "deleted"])
+    sns.barplot(ax=axes[0, 1], x="index", y="value", hue="variable", data=df_churn_melted)
+    axes[0, 1].set_xticklabels(axes[0, 1].get_xticklabels(), rotation=45, ha="right")
+    axes[0, 1].set_title("Top 10 Most Changed Files (Last 10 Years)")
+    axes[0, 1].set_ylabel("Lines Changed")
+    axes[0, 1].set_xlabel("File Name")
+    axes[0, 1].legend(["Added", "Deleted"])
+    axes[0, 1].grid()
+
+    # Bug-Prone Files
+    sns.barplot(ax=axes[1, 0], x=df_bugs.index, y=df_bugs["bug_fixes"], color="red")
+    axes[1, 0].set_xticklabels(axes[1, 0].get_xticklabels(), rotation=45, ha="right")
+    axes[1, 0].set_title("Top 10 Bug-Prone Files (Last 10 Years)")
+    axes[1, 0].set_ylabel("Bug Fixes")
+    axes[1, 0].set_xlabel("File Name")
+    axes[1, 0].grid()
+
+    # Top Contributors
+    sns.barplot(ax=axes[1, 1], x=df_contributors.index, y=df_contributors["commit_count"], color="green")
+    axes[1, 1].set_xticklabels(axes[1, 1].get_xticklabels(), rotation=45, ha="right")
+    axes[1, 1].set_title("Top 10 Contributors (Last 10 Years)")
+    axes[1, 1].set_ylabel("Commit Count")
+    axes[1, 1].set_xlabel("Contributor")
+    axes[1, 1].grid()
+
+    plt.tight_layout()
+    plt.show()
    
 
 # Function to store analysis results in JSON files
@@ -237,13 +243,12 @@ if __name__ == "__main__":
     json_file, repo_name = extract_git_history(repo_name)
 
     print("\nPerforming Analysis...\n")
-    analyze_commit_history(json_file, repo_name)
-    analyze_code_churn(json_file, repo_name)
-    analyze_bug_prone_files(json_file, repo_name)
-    analyze_top_contributors(json_file, repo_name)
-    plt.show()
-
-
+    commit_frequency = analyze_commit_history(json_file, repo_name)
+    df_churn = analyze_code_churn(json_file, repo_name)
+    df_bugs = analyze_bug_prone_files(json_file, repo_name)
+    df_contributors = analyze_top_contributors(json_file, repo_name)
+    
+    plot_all_graphs(commit_frequency, df_churn, df_bugs, df_contributors)
     print("\nAnalysis Completed!")
 
 
