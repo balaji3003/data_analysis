@@ -1,0 +1,242 @@
+{
+    "2025-04": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 2,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2025-03": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 13,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2025-02": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 18,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2025-01": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 13,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2024-12": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 11,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2024-11": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 10,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2024-10": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 6,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2024-09": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 9,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2024-08": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 7,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2024-07": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 6,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2024-06": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 6,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2024-05": {
+        "test_commit_percentage": 3.12,
+        "test_commits": 1,
+        "total_commits": 32,
+        "test_files_modified": 1,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2024-04": {
+        "test_commit_percentage": 8.75,
+        "test_commits": 7,
+        "total_commits": 80,
+        "test_files_modified": 8,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2024-03": {
+        "test_commit_percentage": 2.04,
+        "test_commits": 1,
+        "total_commits": 49,
+        "test_files_modified": 1,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2024-02": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 17,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2024-01": {
+        "test_commit_percentage": 2.63,
+        "test_commits": 1,
+        "total_commits": 38,
+        "test_files_modified": 2,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2023-12": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 25,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2023-11": {
+        "test_commit_percentage": 15.79,
+        "test_commits": 6,
+        "total_commits": 38,
+        "test_files_modified": 9,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2023-10": {
+        "test_commit_percentage": 8.16,
+        "test_commits": 8,
+        "total_commits": 98,
+        "test_files_modified": 12,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2023-09": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 67,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2023-08": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 66,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2023-07": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 101,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2023-06": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 58,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2023-05": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 70,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2023-04": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 59,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2023-03": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 82,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2023-02": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 162,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2023-01": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 409,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2022-12": {
+        "test_commit_percentage": 0.94,
+        "test_commits": 4,
+        "total_commits": 424,
+        "test_files_modified": 6,
+        "keyword_hits": 0,
+        "test_related_files": []
+    },
+    "2022-11": {
+        "test_commit_percentage": 0.0,
+        "test_commits": 0,
+        "total_commits": 116,
+        "test_files_modified": 0,
+        "keyword_hits": 0,
+        "test_related_files": []
+    }
+}
